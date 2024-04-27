@@ -1,0 +1,63 @@
+name: Convert upstream patches
+
+on:
+  push:
+    branches: [master]
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  pages: write
+  id-token: write
+  contents: write
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: true
+
+      - name: Configure commit credentials
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Update upstream repository
+        run: |
+          git submodule update --remote --force
+          git commit -am "Sync upstream to $(cd ./source/ && git rev-parse HEAD)" || true
+
+      - uses: actions/setup-node@v4
+        with:
+          cache: npm
+          node-version: 20.12.2
+
+      - name: Install script dependencies
+        run: npm install
+
+      - name: Convert patcher files
+        run: node ./convert.js ./metadata ./source ./output
+
+      - name: Update compatibility table
+        run: node ./status.js ./metadata ./source ./STATUS.md
+
+      - name: Push automated commits
+        run: git push
+
+      - name: Move generated files
+        run: |
+          mkdir -vp ./deploy/
+          mv -v ./output/*.json ./deploy/
+          cp -vr ./html/* ./deploy/
+
+      - name: Upload pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./deploy/
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

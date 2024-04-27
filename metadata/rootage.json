@@ -1,0 +1,18 @@
+{
+    "id": "IIDX 26",
+    "name": "beatmania IIDX 26 Rootage",
+    "patches": {
+        "bm2dx.dll": {
+            "2019-09-02": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1566908357,
+                "AddressOfEntryPoint": 4282436
+            },
+            "2019-10-07": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1569817870,
+                "AddressOfEntryPoint": 4282564
+            }
+        }
+    }
+}

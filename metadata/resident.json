@@ -1,0 +1,23 @@
+{
+    "id": "IIDX 30",
+    "name": "beatmania IIDX 30 RESIDENT",
+    "patches": {
+        "bm2dx.dll": {
+            "2023-09-05 (LDJ-003)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1693388789,
+                "AddressOfEntryPoint": 17004372
+            },
+            "2023-09-05 (LDJ-010)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1693388489,
+                "AddressOfEntryPoint": 8669968
+            },
+            "2023-09-05 (LDJ-012)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1693389139,
+                "AddressOfEntryPoint": 7830976
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 23",
+    "name": "beatmania IIDX 23 copula",
+    "patches": {
+        "bm2dx.dll": {
+            "2016-08-31": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1471826136,
+                "AddressOfEntryPoint": 941441
+            }
+        }
+    }
+}

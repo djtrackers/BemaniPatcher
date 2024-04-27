@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 19",
+    "name": "beatmania IIDX 19 Lincle",
+    "patches": {
+        "bm2dx.dll": {
+            "2012-09-03": {
+                "GameCodePrefix": "KDZ",
+                "TimeDateStamp": 1346319099,
+                "AddressOfEntryPoint": 746082
+            }
+        }
+    }
+}

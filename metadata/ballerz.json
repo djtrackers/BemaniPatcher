@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 25",
+    "name": "beatmania IIDX 25 CANNON BALLERS",
+    "patches": {
+        "bm2dx.dll": {
+            "2018-09-19": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1536712561,
+                "AddressOfEntryPoint": 1585956
+            }
+        }
+    }
+}

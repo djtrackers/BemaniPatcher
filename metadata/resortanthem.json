@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 18",
+    "name": "beatmania IIDX 18 Resort Anthem",
+    "patches": {
+        "bm2dx.dll": {
+            "2011-07-12": {
+                "GameCodePrefix": "JDZ",
+                "TimeDateStamp": 1309740587,
+                "AddressOfEntryPoint": 763961
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "id": "IIDX 27",
+    "name": "beatmania IIDX 27 HEROIC VERSE",
+    "patches": {
+        "bm2dx.dll": {
+            "2020-09-29 (LDJ-003)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1601256274,
+                "AddressOfEntryPoint": 7159952
+            },
+            "2020-09-29 (LDJ-010)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1601255750,
+                "AddressOfEntryPoint": 8344240
+            }
+        }
+    }
+}

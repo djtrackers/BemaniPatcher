@@ -1,0 +1,28 @@
+{
+    "id": "IIDX 28",
+    "name": "beatmania IIDX 28 BISTROVER",
+    "patches": {
+        "bm2dx.dll": {
+            "2021-04-26": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1619051635,
+                "AddressOfEntryPoint": 8599728
+            },
+            "2021-08-30": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1629956585,
+                "AddressOfEntryPoint": 9546000
+            },
+            "2021-09-15 (LDJ-003)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1631233236,
+                "AddressOfEntryPoint": 9546240
+            },
+            "2021-09-15 (LDJ-010)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1631232650,
+                "AddressOfEntryPoint": 10377424
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 20",
+    "name": "beatmania IIDX 20 tricoro",
+    "patches": {
+        "bm2dx.dll": {
+            "2015-08-05": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1438247609,
+                "AddressOfEntryPoint": 994675
+            }
+        }
+    }
+}

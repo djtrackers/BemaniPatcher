@@ -1,0 +1,58 @@
+{
+    "id": "IIDX 29",
+    "name": "beatmania IIDX 29 CastHour",
+    "patches": {
+        "bm2dx.dll": {
+            "2021-10-13": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1633651535,
+                "AddressOfEntryPoint": 7591468
+            },
+            "2021-10-13 rev.1": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1634100270,
+                "AddressOfEntryPoint": 7591452
+            },
+            "2021-11-17": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1636677493,
+                "AddressOfEntryPoint": 7598908
+            },
+            "2022-03-01": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1645495374,
+                "AddressOfEntryPoint": 6578364
+            },
+            "2022-04-12": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1649204869,
+                "AddressOfEntryPoint": 6588988
+            },
+            "2022-05-09": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1651042740,
+                "AddressOfEntryPoint": 6615884
+            },
+            "2022-06-20": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1654835858,
+                "AddressOfEntryPoint": 6694940
+            },
+            "2022-07-13": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1657181203,
+                "AddressOfEntryPoint": 6701852
+            },
+            "2022-08-24 (LDJ-003)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1661209684,
+                "AddressOfEntryPoint": 6715820
+            },
+            "2022-08-24 (LDJ-010)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1661209472,
+                "AddressOfEntryPoint": 7546684
+            }
+        }
+    }
+}

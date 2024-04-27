@@ -1,0 +1,13 @@
+{
+    "id": "IIDX 24",
+    "name": "beatmania IIDX 24 SINOBUZ",
+    "patches": {
+        "bm2dx.dll": {
+            "2017-08-28": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1503359350,
+                "AddressOfEntryPoint": 1003441
+            }
+        }
+    }
+}
