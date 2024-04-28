@@ -167,18 +167,18 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2022-12-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16703785771400748.json) |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-02-15 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-02-15](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16763333531415356.json) |
 | ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-03-29](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16794570681427948.json) |
 | ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-04-25](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16817790351428668.json) |
 | ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-06-13](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16856817181432524.json) |
-| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-08-01, 2023-08-07, 2023-09-04](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16901599361439900.json) |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-09-12 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-10-11 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-11-07 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-11-28 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-12-19 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2024-01-16 |
-| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2024-02-20 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-08-01, 2023-08-07, 2023-09-04](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16933841051439900.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-09-12](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16937985151444716.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-10-11](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16958778341440608.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-11-07](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16986282861441816.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-11-28](https://github.com/djtrackers/BemaniPatcher/blob/master/output/17001150511442088.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-12-19](https://github.com/djtrackers/BemaniPatcher/blob/master/output/17019255011441000.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2024-01-16](https://github.com/djtrackers/BemaniPatcher/blob/master/output/17043291511449352.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2024-02-20](https://github.com/djtrackers/BemaniPatcher/blob/master/output/17073638021450056.json) |
 
 
 ### [GITADORA HIGH-VOLTAGE DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/gitadorahighvoltage.html)
