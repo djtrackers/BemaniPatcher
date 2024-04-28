@@ -1,0 +1,13 @@
+{
+    "id": "MÚSECA",
+    "name": "MÚSECA",
+    "patches": {
+        "museca.dll": {
+            "2016-07-13": {
+                "GameCodePrefix": "PIX",
+                "TimeDateStamp": 1463744648,
+                "AddressOfEntryPoint": 3381436
+            }
+        }
+    }
+}
