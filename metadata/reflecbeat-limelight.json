@@ -1,0 +1,13 @@
+{
+    "id": "REFLEC BEAT limelight",
+    "name": "REFLEC BEAT limelight",
+    "patches": {
+        "reflecbeat.dll": {
+            "2012-08-29": {
+                "GameCodePrefix": "LBR",
+                "TimeDateStamp": 1345603979,
+                "AddressOfEntryPoint": 113423
+            }
+        }
+    }
+}
