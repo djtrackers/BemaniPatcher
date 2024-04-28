@@ -265,24 +265,24 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2022-05-24, 2022-02-16 |
-| ❌ | jubeat.dll | 2021-12-15 |
-| ❌ | jubeat.dll | 2021-10-19 |
-| ❌ | jubeat.dll | 2021-08-17 |
-| ❌ | jubeat.dll | 2021-07-19 |
-| ❌ | jubeat.dll | 2021-03-31 |
-| ❌ | jubeat.dll | 2021-02-09 |
-| ❌ | jubeat.dll | 2020-12-08 |
-| ❌ | jubeat.dll | 2020-07-27 |
-| ❌ | jubeat.dll | 2020-06-30 |
-| ❌ | jubeat.dll | 2020-06-11 |
-| ❌ | jubeat.dll | 2020-02-19 |
-| ❌ | jubeat.dll | 2019-09-03 |
-| ❌ | jubeat.dll | 2019-06-25 |
-| ❌ | jubeat.dll | 2019-04-22 |
-| ❌ | jubeat.dll | 2018-11-27 |
-| ❌ | music_db.dll | 2022-05-24, 2022-02-16, 2021-12-15, 2021-10-19, 2021-08-17, 2021-07-19, 2021-03-31, 2021-02-09, 2020-12-08, 2020-07-27, 2020-06-30, 2020-06-11 |
-| ❌ | music_db.dll | 2019-09-03 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | [2022-05-24, 2022-02-16](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16525924312078992.json) |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-12-15 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-10-19 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-08-17 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-07-19 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-03-31 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2021-02-09 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2020-12-08 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2020-07-27 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2020-06-30 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2020-06-11 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2020-02-19 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2019-09-03 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2019-06-25 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2019-04-22 |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2018-11-27 |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | [2022-05-24, 2022-02-16, 2021-12-15, 2021-10-19, 2021-08-17, 2021-07-19, 2021-03-31, 2021-02-09, 2020-12-08, 2020-07-27, 2020-06-30, 2020-06-11](https://github.com/djtrackers/BemaniPatcher/blob/master/output/164982738344830.json) |
+| ❌ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatfesto.json) | 2019-09-03 |
 
 
 ### [jubeat knit DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/jubeatknit.html)
