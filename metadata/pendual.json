@@ -1,8 +1,13 @@
 {
-    "id": "IIDX 20",
-    "name": "beatmania IIDX 20 tricoro",
+    "id": "IIDX 22",
+    "name": "beatmania IIDX 22 PENDUAL",
     "patches": {
         "bm2dx.dll": {
+            "2014-09-17": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1408000091,
+                "AddressOfEntryPoint": 839507
+            },
             "2015-08-05": {
                 "GameCodePrefix": "LDJ",
                 "TimeDateStamp": 1438247609,
