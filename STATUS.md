@@ -238,10 +238,10 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2022-08-03 |
-| ❌ | jubeat.dll | 2023-08-08 |
-| ❌ | music_db.dll | 2022-08-03 |
-| ❌ | music_db.dll | 2023-08-08 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatave.json) | [2022-08-03](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16594316542074800.json) |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatave.json) | [2023-08-08](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16910414162092112.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatave.json) | [2022-08-03](https://github.com/djtrackers/BemaniPatcher/blob/master/output/165875096545086.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatave.json) | [2023-08-08](https://github.com/djtrackers/BemaniPatcher/blob/master/output/168916279745504.json) |
 
 
 ### [jubeat clan DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/jubeatclan.html)
