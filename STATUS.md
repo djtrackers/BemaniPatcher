@@ -289,8 +289,8 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2011-01-14 |
-| ❌ | music_db.dll | 2011-01-14 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatknit.json) | [2011-01-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1294986404954165.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatknit.json) | [2011-01-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/129498574217396.json) |
 
 
 ### [jubeat prop DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/jubeatprop.html)
