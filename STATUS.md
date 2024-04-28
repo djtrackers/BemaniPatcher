@@ -21,14 +21,14 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | beatstream.dll | 2015-12-01 |
+| ✅ | [beatstream.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/beatstream1.json) | [2015-12-01](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1447927930275732.json) |
 
 
 ### [BeatStream アニムトライヴ DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/beatstream2.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | beatstream.dll | 2016-11-14 |
+| ✅ | [beatstream.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/beatstream2.json) | [2016-11-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1470800352291300.json) |
 
 
 ### [IIDX BISTROVER DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/bistrover.html)
