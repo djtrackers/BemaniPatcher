@@ -447,44 +447,44 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2014-01-16 |
-| ❌ | reflecbeat.dll | 2014-05-26 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-colette.json) | [2014-01-16](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1389749829172789.json) |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-colette.json) | [2014-05-26](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1398130590173765.json) |
 
 
 ### [REFLEC BEAT groovin'!! Upper DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat-groovin-upper.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2015-10-21 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-groovin-upper.json) | [2015-10-21](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1443753873219153.json) |
 
 
 ### [REFLEC BEAT limelight DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat-limelight.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2012-08-29 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-limelight.json) | [2012-08-29](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1345603979113423.json) |
 
 
 ### [Reflec Beat The Reflesia of Eternity DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat-reflesia.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2018-12-11 |
-| ❌ | reflecbeat.dll | 2019-12-11 |
+| ❌ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-reflesia.json) | 2018-12-11 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-reflesia.json) | [2019-12-11](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1575598147209756.json) |
 
 
 ### [Reflec Beat VOLZZA 2 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat-volzza2.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2016-10-04 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat-volzza2.json) | [2016-10-04](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1475119662240520.json) |
 
 
 ### [REFLEC BEAT DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | reflecbeat.dll | 2011-08-22 |
+| ✅ | [reflecbeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/reflecbeat.json) | [2011-08-22](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1313503831654127.json) |
 
 
 ### [IIDX Resident DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/resident.html)
