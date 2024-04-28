@@ -1,0 +1,20 @@
+{
+    "id": "DDR X2",
+    "name": "DanceDanceRevolution X2",
+    "patches": {
+        "ddr.dll": {
+            "2010-11-10": {
+                "GameCodePrefix": "JDX",
+                "TimeDateStamp": 1289305927,
+                "AddressOfEntryPoint": 1610538
+            }
+        },
+        "ddr.exe": {
+            "2010-12-07 (US)": {
+                "GameCodePrefix": "JDX",
+                "TimeDateStamp": 1291715809,
+                "AddressOfEntryPoint": 1488258
+            }
+        }
+    }
+}
