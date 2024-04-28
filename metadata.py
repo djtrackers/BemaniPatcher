@@ -35,4 +35,4 @@ with open(filename, mode="w", newline="\n") as f:
     json.dump(output, f, indent=4)
 
 print()
-print(f"{args.code} metadata saved to {filename} ({len(output["patches"][args.dll])} total)")
+print(f"{args.code} metadata saved to {filename} ({len(output['patches'][args.dll])} total)")
