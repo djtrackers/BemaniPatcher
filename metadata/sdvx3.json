@@ -1,0 +1,18 @@
+{
+    "id": "SDVX III",
+    "name": "SOUND VOLTEX III GRAVITY WARS",
+    "patches": {
+        "soundvoltex.dll": {
+            "2015-11-16 (Season 1)": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1447655556,
+                "AddressOfEntryPoint": 2102044
+            },
+            "2016-12-12 (Season 2)": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1479957716,
+                "AddressOfEntryPoint": 2222364
+            }
+        }
+    }
+}
