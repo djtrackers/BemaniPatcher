@@ -363,23 +363,23 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | nostalgia.dll | 2019-10-02, 2019-11-27 |
+| ✅ | [nostalgia.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/nostalgiaop2.json) | [2019-10-02, 2019-11-27](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1569580736906624.json) |
 
 
 ### [Nostalgia Op.3 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/nostalgiaop3.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | nostalgia.dll | 2020-11-16 |
-| ❌ | nostalgia.dll | 2021-12-22 |
-| ❌ | nostalgia.dll | 2022-04-26 |
+| ❌ | [nostalgia.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/nostalgiaop3.json) | 2020-11-16 |
+| ✅ | [nostalgia.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/nostalgiaop3.json) | [2021-12-22](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1639716913934896.json) |
+| ✅ | [nostalgia.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/nostalgiaop3.json) | [2022-04-26](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1650613497936192.json) |
 
 
 ### [IIDX PENDUAL DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/pendual.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/pendual.json) | 2014-09-17 |
+| ✅ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/pendual.json) | [2014-09-17](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1408000091839507.json) |
 | ✅ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/pendual.json) | [2015-08-05](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1438247609994675.json) |
 
 
@@ -571,7 +571,7 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/spada.json) | 2013-10-02 |
+| ✅ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/spada.json) | [2013-10-02](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1381209255858611.json) |
 | ✅ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/spada.json) | [2014-07-16](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1404902068946547.json) |
 
 
@@ -579,7 +579,7 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/tricoro.json) | 2012-09-19 |
+| ✅ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/tricoro.json) | [2012-09-19](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1347593194803090.json) |
 | ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/tricoro.json) | 2012-10-09 |
 | ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/tricoro.json) | 2012-12-07 |
 | ❌ | [bm2dx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/tricoro.json) | 2013-03-05 |
