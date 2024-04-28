@@ -148,10 +148,10 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | superstep.dll | 2018-03-28 |
-| ❌ | superstep.dll | 2018-10-16 |
-| ❌ | superstep.dll | 2020-12-14 |
-| ❌ | superstep.dll | 2022-12-14 |
+| ❌ | [superstep.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/drs.json) | 2018-03-28 |
+| ❌ | [superstep.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/drs.json) | 2018-10-16 |
+| ✅ | [superstep.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/drs.json) | [2020-12-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16074935645405568.json) |
+| ✅ | [superstep.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/drs.json) | [2022-12-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16704731555420576.json) |
 
 
 ### [GITADORA EXCHAIN DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/gitadoraexchain.html)
@@ -185,9 +185,9 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | game.dll | 2021-04-21 |
-| ❌ | game.dll | 2022-09-26 |
-| ❌ | game.dll | 2022-10-24 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorahighvoltage.json) | [2021-04-21](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16182032881424748.json) |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorahighvoltage.json) | 2022-09-26 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorahighvoltage.json) | [2022-10-24](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16657328261432300.json) |
 
 
 ### [GITADORA Matixx DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/gitadoramatixx.html)
@@ -439,7 +439,7 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ❌ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | 2021-04-26 |
-| ❌ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | 2022-04-25 |
+| ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | [2022-04-25](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16523559431660385.json) |
 | ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | [2022-06-13](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16545788061668673.json) |
 
 
