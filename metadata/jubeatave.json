@@ -1,0 +1,30 @@
+{
+    "id": "jubeat ave",
+    "name": "jubeat ave",
+    "patches": {
+        "jubeat.dll": {
+            "2022-08-03": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1659431654,
+                "AddressOfEntryPoint": 2074800
+            },
+            "2023-08-08": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1691041416,
+                "AddressOfEntryPoint": 2092112
+            }
+        },
+        "music_db.dll": {
+            "2022-08-03": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1658750965,
+                "AddressOfEntryPoint": 45086
+            },
+            "2023-08-08": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1689162797,
+                "AddressOfEntryPoint": 45504
+            }
+        }
+    }
+}
