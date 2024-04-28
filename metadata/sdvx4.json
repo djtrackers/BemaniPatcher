@@ -1,0 +1,18 @@
+{
+    "id": "SDVX IV",
+    "name": "SOUND VOLTEX IV HEAVENLY HAVEN",
+    "patches": {
+        "soundvoltex.dll": {
+            "2018-01-16": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1515580818,
+                "AddressOfEntryPoint": 2544587
+            },
+            "2019-02-06": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1549016214,
+                "AddressOfEntryPoint": 2604155
+            }
+        }
+    }
+}
