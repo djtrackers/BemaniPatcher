@@ -438,9 +438,9 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn22.dll | 2021-04-26 |
-| ❌ | popn22.dll | 2022-04-25 |
-| ❌ | popn22.dll | 2022-06-13 |
+| ❌ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | 2021-04-26 |
+| ❌ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | 2022-04-25 |
+| ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn26riddles.json) | [2022-06-13](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16545788061668673.json) |
 
 
 ### [REFLEC BEAT colette DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/reflecbeat-colette.html)
