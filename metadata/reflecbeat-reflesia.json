@@ -1,0 +1,13 @@
+{
+    "id": "REFLEC BEAT Reflesia",
+    "name": "REFLEC BEAT 悠久のリフレシア",
+    "patches": {
+        "reflecbeat.dll": {
+            "2019-12-11": {
+                "GameCodePrefix": "MBR",
+                "TimeDateStamp": 1575598147,
+                "AddressOfEntryPoint": 209756
+            }
+        }
+    }
+}
