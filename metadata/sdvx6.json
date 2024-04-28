@@ -1,0 +1,13 @@
+{
+    "id": "SDVX VI",
+    "name": "SOUND VOLTEX EXCEED GEAR",
+    "patches": {
+        "soundvoltex.dll": {
+            "2021-12-14": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1639028226,
+                "AddressOfEntryPoint": 5745768
+            }
+        }
+    }
+}
