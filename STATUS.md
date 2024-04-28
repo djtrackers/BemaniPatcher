@@ -348,15 +348,15 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | museca.dll | 2016-07-13 |
+| ✅ | [museca.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/museca1.json) | [2016-07-13](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14637446483381436.json) |
 
 
 ### [MÚSECA 1+1/2 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/museca2.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | museca.dll | 2017-06-28 -- 2017-12-25 |
-| ❌ | museca.dll | 2018-07-30 |
+| ❌ | [museca.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/museca2.json) | 2017-06-28 -- 2017-12-25 |
+| ✅ | [museca.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/museca2.json) | [2018-07-30](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15325978201074628.json) |
 
 
 ### [Nostalgia Op.2 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/nostalgiaop2.html)
