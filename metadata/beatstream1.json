@@ -1,0 +1,13 @@
+{
+    "id": "BeatStream",
+    "name": "BeatStream",
+    "patches": {
+        "beatstream.dll": {
+            "2015-12-01": {
+                "GameCodePrefix": "NBT",
+                "TimeDateStamp": 1447927930,
+                "AddressOfEntryPoint": 275732
+            }
+        }
+    }
+}
