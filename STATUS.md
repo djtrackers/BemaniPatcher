@@ -557,7 +557,7 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | soundvoltex.dll | 2021-12-14 |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx6.json) | [2021-12-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16390282265745768.json) |
 
 
 ### [IIDX SINOBUZ DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/sinobuz.html)
