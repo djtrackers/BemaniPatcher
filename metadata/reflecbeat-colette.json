@@ -1,0 +1,18 @@
+{
+    "id": "REFLEC BEAT colette",
+    "name": "REFLEC BEAT colette",
+    "patches": {
+        "reflecbeat.dll": {
+            "2014-01-16": {
+                "GameCodePrefix": "MBR",
+                "TimeDateStamp": 1389749829,
+                "AddressOfEntryPoint": 172789
+            },
+            "2014-05-26": {
+                "GameCodePrefix": "MBR",
+                "TimeDateStamp": 1398130590,
+                "AddressOfEntryPoint": 173765
+            }
+        }
+    }
+}
