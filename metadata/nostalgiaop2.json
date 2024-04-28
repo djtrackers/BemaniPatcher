@@ -1,0 +1,13 @@
+{
+    "id": "NOSTALGIA Op.2",
+    "name": "ノスタルジア Op.2",
+    "patches": {
+        "nostalgia.dll": {
+            "2019-10-02, 2019-11-27": {
+                "GameCodePrefix": "PAN",
+                "TimeDateStamp": 1569580736,
+                "AddressOfEntryPoint": 906624
+            }
+        }
+    }
+}
