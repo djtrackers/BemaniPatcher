@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 26",
+    "name": "pop'n music 解明リドルズ",
+    "patches": {
+        "popn22.dll": {
+            "2022-06-13": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1654578806,
+                "AddressOfEntryPoint": 1668673
+            }
+        }
+    }
+}
