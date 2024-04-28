@@ -3,6 +3,11 @@
     "name": "beatmania IIDX 21 SPADA",
     "patches": {
         "bm2dx.dll": {
+            "2013-10-02": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1381209255,
+                "AddressOfEntryPoint": 858611
+            },
             "2014-07-16": {
                 "GameCodePrefix": "LDJ",
                 "TimeDateStamp": 1404902068,
