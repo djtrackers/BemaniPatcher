@@ -1,0 +1,13 @@
+{
+    "id": "BeatStream 2",
+    "name": "BeatStream アニムトライヴ",
+    "patches": {
+        "beatstream.dll": {
+            "2016-11-14": {
+                "GameCodePrefix": "NBT",
+                "TimeDateStamp": 1470800352,
+                "AddressOfEntryPoint": 291300
+            }
+        }
+    }
+}
