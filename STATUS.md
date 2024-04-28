@@ -133,8 +133,8 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | ddr.dll | 2010-11-10 |
-| ❌ | ddr.exe | 2010-12-07 (US) |
+| ✅ | [ddr.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddrx2.json) | [2010-11-10](https://github.com/djtrackers/BemaniPatcher/blob/master/output/12893059271610538.json) |
+| ✅ | [ddr.exe](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddrx2.json) | [2010-12-07 (US)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/12917158091488258.json) |
 
 
 ### [DDR X3 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddrx3.html)
