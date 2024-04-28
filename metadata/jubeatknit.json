@@ -1,0 +1,20 @@
+{
+    "id": "jubeat knit",
+    "name": "jubeat knit",
+    "patches": {
+        "jubeat.dll": {
+            "2011-01-14": {
+                "GameCodePrefix": "J44",
+                "TimeDateStamp": 1294986404,
+                "AddressOfEntryPoint": 954165
+            }
+        },
+        "music_db.dll": {
+            "2011-01-14": {
+                "GameCodePrefix": "J44",
+                "TimeDateStamp": 1294985742,
+                "AddressOfEntryPoint": 17396
+            }
+        }
+    }
+}
