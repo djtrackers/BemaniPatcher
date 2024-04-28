@@ -1,0 +1,13 @@
+{
+    "id": "REFLEC BEAT",
+    "name": "REFLEC BEAT",
+    "patches": {
+        "reflecbeat.dll": {
+            "2011-08-22": {
+                "GameCodePrefix": "KBR",
+                "TimeDateStamp": 1313503831,
+                "AddressOfEntryPoint": 654127
+            }
+        }
+    }
+}
