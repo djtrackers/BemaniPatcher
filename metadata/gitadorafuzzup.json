@@ -1,0 +1,33 @@
+{
+    "id": "GITADORA FUZZ-UP",
+    "name": "GITADORA FUZZ-UP",
+    "patches": {
+        "game.dll": {
+            "2022-12-14": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1670378577,
+                "AddressOfEntryPoint": 1400748
+            },
+            "2023-03-29": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1679457068,
+                "AddressOfEntryPoint": 1427948
+            },
+            "2023-04-25": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1681779035,
+                "AddressOfEntryPoint": 1428668
+            },
+            "2023-06-13": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1685681718,
+                "AddressOfEntryPoint": 1432524
+            },
+            "2023-08-01, 2023-08-07, 2023-09-04": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1690159936,
+                "AddressOfEntryPoint": 1439900
+            }
+        }
+    }
+}
