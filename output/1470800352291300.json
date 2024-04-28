@@ -1,0 +1,44 @@
+[
+    {
+        "name": "E: drive fix",
+        "description": "Fix crash caused by no E: drive",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 8799740,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "653A2F",
+                "dataEnabled": "646576"
+            }
+        ]
+    },
+    {
+        "name": "Unlock all songs",
+        "description": "",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1494193,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "4883FD107203488B0941",
+                "dataEnabled": "BE00000000E93A010000"
+            }
+        ]
+    },
+    {
+        "name": "NIGHTMARE difficulty unlock",
+        "description": "",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1501918,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "8BCBE8DBB40E",
+                "dataEnabled": "B001E9AD0000"
+            }
+        ]
+    }
+]
