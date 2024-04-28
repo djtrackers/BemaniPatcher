@@ -1,0 +1,13 @@
+{
+    "id": "REFLEC BEAT VOLZZA 2",
+    "name": "REFLEC BEAT VOLZZA 2",
+    "patches": {
+        "reflecbeat.dll": {
+            "2016-10-04": {
+                "GameCodePrefix": "MBR",
+                "TimeDateStamp": 1475119662,
+                "AddressOfEntryPoint": 240520
+            }
+        }
+    }
+}
