@@ -1,0 +1,13 @@
+{
+    "id": "REFLEC BEAT groovin'!! Upper",
+    "name": "REFLEC BEAT groovin'!! Upper",
+    "patches": {
+        "reflecbeat.dll": {
+            "2015-10-21": {
+                "GameCodePrefix": "MBR",
+                "TimeDateStamp": 1443753873,
+                "AddressOfEntryPoint": 219153
+            }
+        }
+    }
+}
