@@ -1,0 +1,18 @@
+{
+    "id": "NOSTALGIA Op.3",
+    "name": "ノスタルジア Op.3",
+    "patches": {
+        "nostalgia.dll": {
+            "2021-12-22": {
+                "GameCodePrefix": "PAN",
+                "TimeDateStamp": 1639716913,
+                "AddressOfEntryPoint": 934896
+            },
+            "2022-04-26": {
+                "GameCodePrefix": "PAN",
+                "TimeDateStamp": 1650613497,
+                "AddressOfEntryPoint": 936192
+            }
+        }
+    }
+}
