@@ -1,0 +1,18 @@
+{
+    "id": "DANCERUSH STARDOM",
+    "name": "DANCERUSH STARDOM",
+    "patches": {
+        "superstep.dll": {
+            "2020-12-14": {
+                "GameCodePrefix": "REC",
+                "TimeDateStamp": 1607493564,
+                "AddressOfEntryPoint": 5405568
+            },
+            "2022-12-14": {
+                "GameCodePrefix": "REC",
+                "TimeDateStamp": 1670473155,
+                "AddressOfEntryPoint": 5420576
+            }
+        }
+    }
+}
