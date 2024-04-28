@@ -257,8 +257,8 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2012-07-23 |
-| ❌ | music_db.dll | 2012-07-23 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatcopious.json) | [2012-07-23](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13430408231005478.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatcopious.json) | [2012-07-23](https://github.com/djtrackers/BemaniPatcher/blob/master/output/134303993516376.json) |
 
 
 ### [jubeat festo DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/jubeatfesto.html)
