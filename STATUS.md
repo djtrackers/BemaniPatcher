@@ -518,15 +518,15 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | soundvoltex.dll | 2014-10-22 (PhaseII) |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx2.json) | [2014-10-22 (PhaseII)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14133813251107603.json) |
 
 
 ### [SDVX III DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/sdvx3.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | soundvoltex.dll | 2015-11-16 (Season 1) |
-| ❌ | soundvoltex.dll | 2016-12-12 (Season 2) |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx3.json) | [2015-11-16 (Season 1)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14476555562102044.json) |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx3.json) | [2016-12-12 (Season 2)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14799577162222364.json) |
 
 
 ### [SDVX IV DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/sdvx4.html)
