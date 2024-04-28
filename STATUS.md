@@ -533,24 +533,24 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | soundvoltex.dll | 2019-02-06 |
-| ❌ | soundvoltex.dll | 2018-10-23 |
-| ❌ | soundvoltex.dll | 2018-08-21 |
-| ❌ | soundvoltex.dll | 2018-06-05 |
-| ❌ | soundvoltex.dll | 2018-01-16 with Enhanced Continue |
-| ❌ | soundvoltex.dll | 2018-01-16 |
-| ❌ | soundvoltex.dll | 2017-11-28 |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | [2019-02-06](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15490162142604155.json) |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | 2018-10-23 |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | 2018-08-21 |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | 2018-06-05 |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | 2018-01-16 with Enhanced Continue |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | [2018-01-16](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15155808182544587.json) |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx4.json) | 2017-11-28 |
 
 
 ### [SDVX V DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/sdvx5.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | soundvoltex.dll | 2019-07-09 |
-| ❌ | soundvoltex.dll | 2019-10-08 |
-| ❌ | soundvoltex.dll | 2019-10-31 (CN ver.) |
-| ❌ | soundvoltex.dll | 2020-01-15 |
-| ❌ | soundvoltex.dll | 2020-12-22 |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx5.json) | 2019-07-09 |
+| ❌ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx5.json) | 2019-10-08 |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx5.json) | [2019-10-31 (CN ver.)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15725153493598976.json) |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx5.json) | [2020-01-15](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15786522833262336.json) |
+| ✅ | [soundvoltex.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/sdvx5.json) | [2020-12-22](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16081786663344768.json) |
 
 
 ### [SDVX VI DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/sdvx6.html)
