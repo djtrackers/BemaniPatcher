@@ -166,19 +166,19 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | game.dll | 2022-12-14 |
-| ❌ | game.dll | 2023-02-15 |
-| ❌ | game.dll | 2023-03-29 |
-| ❌ | game.dll | 2023-04-25 |
-| ❌ | game.dll | 2023-06-13 |
-| ❌ | game.dll | 2023-08-01, 2023-08-07, 2023-09-04 |
-| ❌ | game.dll | 2023-09-12 |
-| ❌ | game.dll | 2023-10-11 |
-| ❌ | game.dll | 2023-11-07 |
-| ❌ | game.dll | 2023-11-28 |
-| ❌ | game.dll | 2023-12-19 |
-| ❌ | game.dll | 2024-01-16 |
-| ❌ | game.dll | 2024-02-20 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2022-12-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16703785771400748.json) |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-02-15 |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-03-29](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16794570681427948.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-04-25](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16817790351428668.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-06-13](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16856817181432524.json) |
+| ✅ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | [2023-08-01, 2023-08-07, 2023-09-04](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16901599361439900.json) |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-09-12 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-10-11 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-11-07 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-11-28 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2023-12-19 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2024-01-16 |
+| ❌ | [game.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/gitadorafuzzup.json) | 2024-02-20 |
 
 
 ### [GITADORA HIGH-VOLTAGE DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/gitadorahighvoltage.html)
