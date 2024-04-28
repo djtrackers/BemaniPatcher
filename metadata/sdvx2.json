@@ -1,0 +1,13 @@
+{
+    "id": "SDVX II",
+    "name": "SOUND VOLTEX II -infinite infection-",
+    "patches": {
+        "soundvoltex.dll": {
+            "2014-10-22 (PhaseII)": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1413381325,
+                "AddressOfEntryPoint": 1107603
+            }
+        }
+    }
+}
