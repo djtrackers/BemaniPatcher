@@ -1,0 +1,20 @@
+{
+    "id": "jubeat festo",
+    "name": "jubeat festo",
+    "patches": {
+        "jubeat.dll": {
+            "2022-05-24, 2022-02-16": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1652592431,
+                "AddressOfEntryPoint": 2078992
+            }
+        },
+        "music_db.dll": {
+            "2022-05-24, 2022-02-16, 2021-12-15, 2021-10-19, 2021-08-17, 2021-07-19, 2021-03-31, 2021-02-09, 2020-12-08, 2020-07-27, 2020-06-30, 2020-06-11": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1649827383,
+                "AddressOfEntryPoint": 44830
+            }
+        }
+    }
+}
