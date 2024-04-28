@@ -1,0 +1,23 @@
+{
+    "id": "SDVX V",
+    "name": "SOUND VOLTEX VIVID WAVE",
+    "patches": {
+        "soundvoltex.dll": {
+            "2019-10-31 (CN ver.)": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1572515349,
+                "AddressOfEntryPoint": 3598976
+            },
+            "2020-01-15": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1578652283,
+                "AddressOfEntryPoint": 3262336
+            },
+            "2020-12-22": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1608178666,
+                "AddressOfEntryPoint": 3344768
+            }
+        }
+    }
+}
