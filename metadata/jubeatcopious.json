@@ -1,0 +1,20 @@
+{
+    "id": "jubeat copious",
+    "name": "jubeat copious",
+    "patches": {
+        "jubeat.dll": {
+            "2012-07-23": {
+                "GameCodePrefix": "K44",
+                "TimeDateStamp": 1343040823,
+                "AddressOfEntryPoint": 1005478
+            }
+        },
+        "music_db.dll": {
+            "2012-07-23": {
+                "GameCodePrefix": "K44",
+                "TimeDateStamp": 1343039935,
+                "AddressOfEntryPoint": 16376
+            }
+        }
+    }
+}
