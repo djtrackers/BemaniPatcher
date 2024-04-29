@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 24",
+    "name": "pop'n music うさぎと猫と少年の夢",
+    "patches": {
+        "popn22.dll": {
+            "2018-08-21": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1534409639,
+                "AddressOfEntryPoint": 1585633
+            }
+        }
+    }
+}
