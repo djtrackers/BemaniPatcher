@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 21",
+    "name": "pop'n music Sunny Park",
+    "patches": {
+        "popn21.dll": {
+            "2014-06-19": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1401362539,
+                "AddressOfEntryPoint": 1499664
+            }
+        }
+    }
+}
