@@ -1,0 +1,13 @@
+{
+    "id": "GITADORA OverDrive",
+    "name": "GITADORA OverDrive",
+    "patches": {
+        "game.dll": {
+            "2015-03-27": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1427525223,
+                "AddressOfEntryPoint": 1407808
+            }
+        }
+    }
+}
