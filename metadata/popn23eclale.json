@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 23",
+    "name": "pop'n music éclale",
+    "patches": {
+        "popn22.dll": {
+            "2016-10-05": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1475477112,
+                "AddressOfEntryPoint": 1499596
+            }
+        }
+    }
+}
