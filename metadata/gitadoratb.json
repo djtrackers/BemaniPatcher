@@ -1,0 +1,13 @@
+{
+    "id": "GITADORA Tri-Boost",
+    "name": "GITADORA Tri-Boost",
+    "patches": {
+        "game.dll": {
+            "2016-11-23": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1479802732,
+                "AddressOfEntryPoint": 1426064
+            }
+        }
+    }
+}
