@@ -1,0 +1,27 @@
+{
+    "id": "jubeat saucer fulfill",
+    "name": "jubeat saucer fulfill",
+    "patches": {
+        "coin.dll": {
+            "2014-11-18": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1415876337,
+                "AddressOfEntryPoint": 6494
+            }
+        },
+        "jubeat.dll": {
+            "2014-11-18": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1415876363,
+                "AddressOfEntryPoint": 1517349
+            }
+        },
+        "music_db.dll": {
+            "2014-11-18": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1415876335,
+                "AddressOfEntryPoint": 17373
+            }
+        }
+    }
+}
