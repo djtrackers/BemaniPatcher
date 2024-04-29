@@ -1,0 +1,20 @@
+{
+    "id": "jubeat prop",
+    "name": "jubeat prop",
+    "patches": {
+        "jubeat.dll": {
+            "2016-03-27": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1453691033,
+                "AddressOfEntryPoint": 2195090
+            }
+        },
+        "music_db.dll": {
+            "2016-03-27": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1453691004,
+                "AddressOfEntryPoint": 19549
+            }
+        }
+    }
+}
