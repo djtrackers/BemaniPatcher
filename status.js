@@ -12,8 +12,31 @@ import {
 /**
  * Constants
  */
+const UPSTREAM_SRC_URL = 'https://mon.im/bemanipatcher';
+const METADATA_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/metadata';
+const CONVERTED_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/output';
+
+/**
+ * Files we should ignore for one reason or another
+ */
 const HTML_IGNORE_LIST = [
-    'bombergirl.html', // eacloud version
+    // currently unsupported games
+    // https://github.com/spice2x/spice2x.github.io/wiki/List-of-supported-games
+    'bishibashi.html',
+    'ddrx.html',
+    'gfdmv4.html',
+    'gfdmv5.html',
+    'gfdmv6.html',
+    'gfdmv7.html',
+    'gfdmv8.html',
+    'gfdmxg2.html',
+    'gfdmxg3.html',
+    'jubeatripples.html',
+
+    // eacloud
+    'bombergirl.html',
+
+    // non-konami games
     'chuniair.html',
     'chuniairplus.html',
     'chuniamazon.html',
@@ -31,15 +54,14 @@ const HTML_IGNORE_LIST = [
     'chusansunplus.html',
     'futuretone.html',
     'gc4ex.html',
-    'index.html', // directory
     'initialdzero.html',
     'kancolle.html',
     'taikonotatsujin.html',
     'waccareverse.html',
+
+    // non-patcher files
+    'index.html',
 ]
-const UPSTREAM_SRC_URL = 'https://mon.im/bemanipatcher';
-const METADATA_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/metadata';
-const CONVERTED_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/output';
 
 /**
  * Paths to files from command-line arguments
