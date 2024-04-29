@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 22",
+    "name": "pop'n music ラピストリア",
+    "patches": {
+        "popn22.dll": {
+            "2015-08-19": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1439796999,
+                "AddressOfEntryPoint": 1625392
+            }
+        }
+    }
+}
