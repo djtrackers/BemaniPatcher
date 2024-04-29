@@ -1,0 +1,13 @@
+{
+    "id": "GITADORA NEX+AGE",
+    "name": "GITADORA NEX+AGE",
+    "patches": {
+        "game.dll": {
+            "2021-02-15": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1612739402,
+                "AddressOfEntryPoint": 1527724
+            }
+        }
+    }
+}
