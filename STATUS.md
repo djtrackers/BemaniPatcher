@@ -239,9 +239,9 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2018-08-14 |
-| ❌ | jubeat.dll | 2018-07-09 |
-| ❌ | music_db.dll | music_db.dll |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatclan.json) | 2018-08-14 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatclan.json) | [2018-07-09](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15307585901719655.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatclan.json) | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/output/153070018041706.json) |
 
 
 ### [jubeat copious DLL Modder](https://mon.im/bemanipatcher/jubeatcopious.html)
@@ -288,34 +288,34 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2016-03-27 |
-| ❌ | music_db.dll | 2016-03-27 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatprop.json) | [2016-03-27](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14536910332195090.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatprop.json) | [2016-03-27](https://github.com/djtrackers/BemaniPatcher/blob/master/output/145369100419549.json) |
 
 
 ### [jubeat Qubell DLL Modder](https://mon.im/bemanipatcher/jubeatqubell.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2017-06-20 |
-| ❌ | jubeat.dll | 2017-04-15 |
-| ❌ | music_db.dll | music_db.dll |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatqubell.json) | [2017-06-20](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14974136211553877.json) |
+| ❌ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatqubell.json) | 2017-04-15 |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatqubell.json) | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/output/149741354722620.json) |
 
 
 ### [jubeat saucer DLL Modder](https://mon.im/bemanipatcher/jubeatsaucer.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2014-01-28 |
-| ❌ | music_db.dll | 2014-01-28 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatsaucer.json) | [2014-01-28](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13904650261377824.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatsaucer.json) | [2014-01-28](https://github.com/djtrackers/BemaniPatcher/blob/master/output/139046501017656.json) |
 
 
 ### [jubeat saucer fulfill DLL Modder](https://mon.im/bemanipatcher/jubeatsaucerfulfill.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2014-11-18 |
-| ❌ | coin.dll | 2014-11-18 |
-| ❌ | music_db.dll | 2014-11-18 |
+| ✅ | [jubeat.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatsaucerfulfill.json) | [2014-11-18](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14158763631517349.json) |
+| ✅ | [coin.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatsaucerfulfill.json) | [2014-11-18](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14158763376494.json) |
+| ✅ | [music_db.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/jubeatsaucerfulfill.json) | [2014-11-18](https://github.com/djtrackers/BemaniPatcher/blob/master/output/141587633517373.json) |
 
 
 ### [IIDX Lincle DLL Modder](https://mon.im/bemanipatcher/lincle.html)
