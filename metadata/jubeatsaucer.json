@@ -1,0 +1,20 @@
+{
+    "id": "jubeat saucer",
+    "name": "jubeat saucer",
+    "patches": {
+        "jubeat.dll": {
+            "2014-01-28": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1390465026,
+                "AddressOfEntryPoint": 1377824
+            }
+        },
+        "music_db.dll": {
+            "2014-01-28": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1390465010,
+                "AddressOfEntryPoint": 17656
+            }
+        }
+    }
+}
