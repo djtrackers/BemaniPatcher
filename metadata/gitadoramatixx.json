@@ -1,0 +1,20 @@
+{
+    "id": "GITADORA Matixx",
+    "name": "GITADORA Matixx",
+    "patches": {
+        "game.dll": {
+            "2018-07-17": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1531217610,
+                "AddressOfEntryPoint": 1489504
+            }
+        },
+        "libshare-pj.dll": {
+            "2018-07-17": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1531217529,
+                "AddressOfEntryPoint": 542304
+            }
+        }
+    }
+}
