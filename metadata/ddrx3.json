@@ -1,0 +1,13 @@
+{
+    "id": "DDR X3",
+    "name": "DanceDanceRevolution X3 VS 2ndMIX",
+    "patches": {
+        "ddr.dll": {
+            "2012-11-26": {
+                "GameCodePrefix": "KDX",
+                "TimeDateStamp": 1353837160,
+                "AddressOfEntryPoint": 1705197
+            }
+        }
+    }
+}
