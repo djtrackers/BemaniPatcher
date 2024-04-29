@@ -368,42 +368,42 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn19.dll | 2011-06-14 |
+| ✅ | [popn19.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn19tunestreet.json) | [2011-06-14](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13073351821763781.json) |
 
 
 ### [pop'n music fantasia DLL Modder](https://mon.im/bemanipatcher/popn20fantasia.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn20.dll | 2012-09-19 |
+| ✅ | [popn20.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn20fantasia.json) | [2012-09-19](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13473518211505288.json) |
 
 
 ### [pop'n music Sunny Park DLL Modder](https://mon.im/bemanipatcher/popn21sunnypark.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn21.dll | 2014-06-19 |
+| ✅ | [popn21.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn21sunnypark.json) | [2014-06-19](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14013625391499664.json) |
 
 
 ### [pop'n music Lapistoria DLL Modder](https://mon.im/bemanipatcher/popn22lapistoria.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn22.dll | 2015-08-19 |
+| ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn22lapistoria.json) | [2015-08-19](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14397969991625392.json) |
 
 
 ### [pop'n music éclale DLL Modder](https://mon.im/bemanipatcher/popn23eclale.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn22.dll | 2016-10-05 |
+| ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn23eclale.json) | [2016-10-05](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14754771121499596.json) |
 
 
 ### [pop'n music うさぎと猫と少年の夢 DLL Modder](https://mon.im/bemanipatcher/popn24usaneko.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | popn22.dll | 2018-08-21 |
+| ✅ | [popn22.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/popn24usaneko.json) | [2018-08-21](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15344096391585633.json) |
 
 
 ### [pop'n music peace DLL Modder](https://mon.im/bemanipatcher/popn25peace.html)
