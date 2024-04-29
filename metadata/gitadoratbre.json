@@ -1,0 +1,13 @@
+{
+    "id": "GITADORA TBR:E",
+    "name": "GITADORA Tri-Boost Re:EVOLVE",
+    "patches": {
+        "game.dll": {
+            "2017-08-02": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1501463565,
+                "AddressOfEntryPoint": 1430368
+            }
+        }
+    }
+}
