@@ -1,0 +1,23 @@
+{
+    "id": "DDR A",
+    "name": "DanceDanceRevolution A",
+    "patches": {
+        "gamemdx.dll": {
+            "2018-04-23": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1523956800,
+                "AddressOfEntryPoint": 1070929
+            },
+            "2018-10-22": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1539737493,
+                "AddressOfEntryPoint": 1103113
+            },
+            "2019-04-22": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1555472701,
+                "AddressOfEntryPoint": 1151897
+            }
+        }
+    }
+}
