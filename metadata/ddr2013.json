@@ -1,0 +1,13 @@
+{
+    "id": "DDR 2013",
+    "name": "DanceDanceRevolution (2013)",
+    "patches": {
+        "mdxja_945.dll": {
+            "2014-03-27": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1395909601,
+                "AddressOfEntryPoint": 1600511
+            }
+        }
+    }
+}
