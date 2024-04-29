@@ -69,48 +69,48 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | mdxja_945.dll | 2014-03-27 |
+| ✅ | [mdxja_945.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddr2013.json) | [2014-03-27](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13959096011600511.json) |
 
 
 ### [DDR 2014 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddr2014.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | mdxja_945.dll | 2015-12-21 |
+| ✅ | [mdxja_945.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddr2014.json) | [2015-12-21](https://github.com/djtrackers/BemaniPatcher/blob/master/output/14506694901869725.json) |
 
 
 ### [DDR A DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddra.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | gamemdx.dll | 2019-04-22 |
-| ❌ | gamemdx.dll | 2018-10-22 |
-| ❌ | gamemdx.dll | 2018-04-23 |
+| ✅ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra.json) | [2019-04-22](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15554727011151897.json) |
+| ✅ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra.json) | [2018-10-22](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15397374931103113.json) |
+| ✅ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra.json) | [2018-04-23](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15239568001070929.json) |
 
 
 ### [DDR A20 Plus DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddra20+.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | gamemdx.dll | 2020-07-28 |
-| ❌ | gamemdx.dll | 2020-12-08 |
-| ❌ | gamemdx.dll | 2021-02-09 |
-| ❌ | gamemdx.dll | 2021-03-16 |
-| ❌ | gamemdx.dll | 2021-08-04 |
-| ❌ | gamemdx.dll | 2022-02-02 (MDX-001) |
-| ❌ | gamemdx.dll | 2022-02-02 (MDX-003) |
-| ❌ | arkmdxp3.dll | 2020-07-28 |
-| ❌ | arkmdxp3.dll | 2020-12-08 |
-| ❌ | arkmdxp3.dll | 2021-03-16 |
-| ❌ | arkmdxp3.dll | 2021-08-04 |
-| ❌ | arkmdxp3.dll | 2022-02-02 |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2020-07-28 |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2020-12-08 |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2021-02-09 |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2021-03-16 |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2021-08-04 |
+| ✅ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | [2022-02-02 (MDX-001)](https://github.com/djtrackers/BemaniPatcher/blob/master/output/16436838331224825.json) |
+| ❌ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2022-02-02 (MDX-003) |
+| ❌ | [arkmdxp3.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2020-07-28 |
+| ❌ | [arkmdxp3.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2020-12-08 |
+| ❌ | [arkmdxp3.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2021-03-16 |
+| ✅ | [arkmdxp3.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | [2021-08-04](https://github.com/djtrackers/BemaniPatcher/blob/master/output/1642494833470239.json) |
+| ❌ | [arkmdxp3.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20+.json) | 2022-02-02 |
 
 
 ### [DDR A20 DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddra20.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | gamemdx.dll | 2020-02-03 |
+| ✅ | [gamemdx.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddra20.json) | [2020-02-03](https://github.com/djtrackers/BemaniPatcher/blob/master/output/15801093761191257.json) |
 
 
 ### [DDR X DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/ddrx.html)
@@ -141,7 +141,7 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | ddr.dll | 2012-11-26 |
+| ✅ | [ddr.dll](https://github.com/djtrackers/BemaniPatcher/blob/master/metadata/ddrx3.json) | [2012-11-26](https://github.com/djtrackers/BemaniPatcher/blob/master/output/13538371601705197.json) |
 
 
 ### [DANCERUSH STARDOM DLL Modder](https://github.com/mon/BemaniPatcher/blob/master/drs.html)
