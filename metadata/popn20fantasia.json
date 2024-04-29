@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 20",
+    "name": "pop'n music 20 fantasia",
+    "patches": {
+        "popn20.dll": {
+            "2012-09-19": {
+                "GameCodePrefix": "L39",
+                "TimeDateStamp": 1347351821,
+                "AddressOfEntryPoint": 1505288
+            }
+        }
+    }
+}
