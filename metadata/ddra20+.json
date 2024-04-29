@@ -1,0 +1,20 @@
+{
+    "id": "DDR A20 PLUS",
+    "name": "DanceDanceRevolution A20 PLUS",
+    "patches": {
+        "arkmdxp3.dll": {
+            "2021-08-04": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1642494833,
+                "AddressOfEntryPoint": 470239
+            }
+        },
+        "gamemdx.dll": {
+            "2022-02-02 (MDX-001)": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1643683833,
+                "AddressOfEntryPoint": 1224825
+            }
+        }
+    }
+}
