@@ -1,0 +1,13 @@
+{
+    "id": "DDR A20",
+    "name": "DanceDanceRevolution A20",
+    "patches": {
+        "gamemdx.dll": {
+            "2020-02-03": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1580109376,
+                "AddressOfEntryPoint": 1191257
+            }
+        }
+    }
+}
