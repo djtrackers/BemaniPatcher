@@ -1,0 +1,20 @@
+{
+    "id": "jubeat Qubell",
+    "name": "jubeat Qubell",
+    "patches": {
+        "jubeat.dll": {
+            "2017-06-20": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1497413621,
+                "AddressOfEntryPoint": 1553877
+            }
+        },
+        "music_db.dll": {
+            "music_db.dll": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1497413547,
+                "AddressOfEntryPoint": 22620
+            }
+        }
+    }
+}
