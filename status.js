@@ -37,7 +37,7 @@ const HTML_IGNORE_LIST = [
     'taikonotatsujin.html',
     'waccareverse.html',
 ]
-const UPSTREAM_SRC_URL = 'https://github.com/mon/BemaniPatcher/blob/master';
+const UPSTREAM_SRC_URL = 'https://mon.im/bemanipatcher';
 const METADATA_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/metadata';
 const CONVERTED_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/output';
 
