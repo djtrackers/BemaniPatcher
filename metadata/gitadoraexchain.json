@@ -1,0 +1,20 @@
+{
+    "id": "GITADORA EXCHAIN",
+    "name": "GITADORA EXCHAIN",
+    "patches": {
+        "game.dll": {
+            "2019-09-24": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1567470622,
+                "AddressOfEntryPoint": 1542496
+            }
+        },
+        "libshare-pj.dll": {
+            "2019-09-24": {
+                "GameCodePrefix": "M32",
+                "TimeDateStamp": 1567470523,
+                "AddressOfEntryPoint": 538864
+            }
+        }
+    }
+}
