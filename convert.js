@@ -62,44 +62,51 @@ for (const metaFile of fs.readdirSync(METADATA_DIR))
             continue;
         }
 
-        const metaItem = meta.patches[patcher.fname][patcher.description];
-        console.log(`Converting patches for '${patcher.fname}' version '${patcher.description}'...`);
+        let metaBinaries = meta.patches[patcher.fname][patcher.description];
 
-        let convertedPatches = [];
+        if (!Array.isArray(metaBinaries))
+            metaBinaries = [metaBinaries];
 
-        for (const patch of patcher.args)
+        for (const metaItem of metaBinaries)
         {
-            const converted = convertToSpicePatch(patch, metaItem.GameCodePrefix, patcher.fname);
+            console.log(`Converting patches for '${patcher.fname}' version '${patcher.description}'...`);
 
-            if (!converted)
-                continue;
+            let convertedPatches = [];
 
-            convertedPatches.push(converted);
-        }
-
-        const outputFilename = path.join(OUTPUT_DIR, generatePatchFilename(metaItem));
-        const outputContents = JSON.stringify(convertedPatches, null, 4);
-
-        let operation = 'Add';
-
-        if (fs.existsSync(outputFilename))
-        {
-            if (fs.readFileSync(outputFilename, { encoding: 'utf8' }) === outputContents)
+            for (const patch of patcher.args)
             {
-                console.log(`Output file '${outputFilename}' is already up-to-date...`);
-                continue;
+                const converted = convertToSpicePatch(patch, metaItem.GameCodePrefix, patcher.fname);
+
+                if (!converted)
+                    continue;
+
+                convertedPatches.push(converted);
             }
 
-            operation = 'Update';
+            const outputFilename = path.join(OUTPUT_DIR, generatePatchFilename(metaItem));
+            const outputContents = JSON.stringify(convertedPatches, null, 4);
+
+            let operation = 'Add';
+
+            if (fs.existsSync(outputFilename))
+            {
+                if (fs.readFileSync(outputFilename, { encoding: 'utf8' }) === outputContents)
+                {
+                    console.log(`Output file '${outputFilename}' is already up-to-date...`);
+                    continue;
+                }
+
+                operation = 'Update';
+            }
+
+            console.log(`Writing output file '${outputFilename}'...`);
+            fs.writeFileSync(outputFilename, outputContents);
+
+            if (process.env.GIT_NO_COMMIT)
+                continue;
+
+            execSync(`git add ${outputFilename}`);
+            execSync(`git commit -m "${operation} ${meta.id} '${patcher.fname}' ${patcher.description} patches"`);
         }
-
-        console.log(`Writing output file '${outputFilename}'...`);
-        fs.writeFileSync(outputFilename, outputContents);
-
-        if (process.env.GIT_NO_COMMIT)
-            continue;
-
-        execSync(`git add ${outputFilename}`);
-        execSync(`git commit -m "${operation} ${meta.id} '${patcher.fname}' ${patcher.description} patches"`);
     }
 }

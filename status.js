@@ -114,6 +114,9 @@ for (const patchFile of fs.readdirSync(PATCHERS_DIR))
         if (metaData && metaData.patches[patcher.fname] && metaData.patches[patcher.fname][patcher.description])
             patchMeta = metaData.patches[patcher.fname][patcher.description];
 
+        if (patchMeta && Array.isArray(patchMeta))
+            patchMeta = patchMeta[0]; // The output is identical across all array entries, so just use the first one
+
         let status = '❌';
         let filename = patcher.fname;
         let version = patcher.description;
