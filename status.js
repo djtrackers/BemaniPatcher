@@ -13,8 +13,8 @@ import {
  * Constants
  */
 const UPSTREAM_SRC_URL = 'https://mon.im/bemanipatcher';
-const METADATA_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/metadata';
-const CONVERTED_SRC_URL = 'https://github.com/djtrackers/BemaniPatcher/blob/master/output';
+const METADATA_SRC_URL = 'metadata';
+const CONVERTED_SRC_URL = 'output';
 
 /**
  * Files we should ignore for one reason or another
