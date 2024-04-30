@@ -5,67 +5,135 @@
     <meta name="theme-color" content="#712cf9">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>BemaniPatcher for spice2x</title>
+    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
           integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Merriweather" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+          integrity="sha384-XGjxtQfXaH2tnPFa9x+ruJTuLE3Aa6LhHSWRr1XeTyhezb4abCG4ccI5AkVDxqC+" crossorigin="anonymous">
     <style>
-        body { font-family:'Merriweather', serif; }
+        body {
+            font-family:'Merriweather', serif;
+        }
+
+        .icon-square {
+            width: 3rem;
+            height: 3rem;
+            border-radius: .75rem;
+        }
     </style>
 </head>
 <body>
-    <div class="col-lg-8 mx-auto p-4 py-md-5">
-        <header class="d-flex align-items-center pb-3 mb-4 border-bottom">
-            <div class="d-flex align-items-center text-body-emphasis text-decoration-none">
-                <span class="fs-2">
-                    <strong>BemaniPatcher</strong> for spice2x
-                </span>
-            </div>
+    <div class="container mx-auto p-4 py-md-5">
+        <header class="p-5 text-center text-muted">
+            <h1 class="text-body-emphasis">BemaniPatcher for spice2x</h1>
+            <p class="col-lg-6 mx-auto mb-4">Unofficial mirror of BemaniPatcher for use with spice2x</p>
+            <a href="https://github.com/djtrackers/BemaniPatcher/blob/master/STATUS.md" class="btn btn-primary px-5 py-2 mb-3">
+                Compatibility list
+            </a>
+            <a href="https://github.com/djtrackers/BemaniPatcher/" class="btn btn-outline-secondary px-5 py-2 mb-3">
+                Source code
+            </a>
         </header>
 
         <main>
-            <p class="fs-5 col-md-8">
-                This is an <strong>unofficial</strong> mirror of mon’s <a href="https://github.com/mon/BemaniPatcher"
-                target="_blank">BemaniPatcher</a> repository with patches converted to work with the spice2x
-                <a href="https://github.com/spice2x/spice2x.github.io/issues/161" target="_blank">remote patch</a> format.
-            </p>
-
-            <p class="fs-5 col-md-8">
-                By using the URL <code>https://djtrackers.github.io/BemaniPatcher</code> in the <strong>Patches</strong> configuration tab,
-                you can apply patches without having to modify any game files.
-            </p>
-
-            <div class="py-3">
-                <a href="https://github.com/djtrackers/BemaniPatcher/blob/master/STATUS.md"
-                   class="btn btn-primary btn-lg px-3">
-                    Compatibility list
-                </a>
-                <a href="https://github.com/djtrackers/BemaniPatcher/" class="btn btn-outline-primary btn-lg px-3">
-                    Source code
+            <div class="alert alert-warning text-center py-4 mb-5" role="alert">
+                <strong>This feature is currently available in pre-release builds of spice2x only.</strong>
+                <a href="https://github.com/spice2x/spice2x.github.io/issues/161" target="_blank">
+                    Refer to the GitHub issue for more information.
                 </a>
             </div>
 
-            <div class="row py-2">
-                <div class="col-md-6 py-2">
-                    <img src="./img/spice2x-set-url.png" class="img-fluid"
-                         alt="Setting patcher Source URL in spice2x Configuration">
+            <div class="mx-auto col-xl-9">
+            <div class="d-flex align-items-start my-5">
+                <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                    <i class="bi bi-download"></i>
                 </div>
-                <div class="col-md-6 py-2">
-                    <img src="./img/spice2x-patch-list.png" class="img-fluid"
-                         alt="Setting patcher Source URL in spice2x Configuration">
+                <div>
+                    <h3 class="fs-2 text-body-emphasis">Update your version of SpiceTools</h3>
+                    <p>
+                        Importing patches from a remote URL is available as of the pre-release <strong>24-04-30</strong>
+                        version.
+                    </p>
+                    <p>
+                        Due to changes in the filename format, you will need to upgrade to build
+                        <strong>spice2x-24-04-30_r0001.zip</strong> or newer to use the patches available here. To
+                        install this version, download the asset from the link below, then extract the new
+                        <strong>spice.exe</strong>, <strong>spice64.exe</strong>, and <strong>spicecfg.exe</strong>
+                        files from the .zip file over your existing installation.
+                    </p>
+                    <a href="https://github.com/spice2x/spice2x.github.io/releases/tag/24-04-30"
+                       class="btn btn-primary" target="_blank">
+                        Download pre-release version
+                    </a>
                 </div>
             </div>
 
-            <small class="d-block text-muted">
-                ※ Remote patching is currently in active development and is subject to change
-            </small>
+            <div class="d-flex align-items-start my-5">
+                <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                    <i class="bi bi-tools"></i>
+                </div>
+                <div>
+                    <h3 class="fs-2 text-body-emphasis">Import patches from URL</h3>
+                    <p>
+                        Patches can be imported and managed before the game is launched, using the standalone
+                        <strong>spicecfg.exe</strong> configurator tool from the "Patches" tab, or while the game is
+                        running using the in-game overlay.
+                    </p>
+                    <div class="row">
+                        <div class="col-12 col-md-6">
+                            <img src="./img/spice2x-patch-manager-empty.png" class="img-fluid pt-2 pb-4"
+                                 alt="spice2x Patch Manager window as seen in-game, toggleable by default with the F10 key">
+                        </div>
+                        <div class="col-12 col-md-6">
+                            <img src="./img/spice2x-patch-manager-import-url.png" class="img-fluid pt-2 pb-4"
+                                 alt="spice2x Import from URL window with the BemaniPatcher mirror URL">
+                        </div>
+                    </div>
+                    <p>
+                        Press the <code>Import from URL</code> button and enter the URL below into the text field:
+                    </p>
+                    <pre class="border border-muted rounded py-3 text-center fw-bold fs-5">https://djtrackers.github.io/BemaniPatcher</pre>
+                    <p>Finally, press the <code>Import</code> button to download and save a list of patches for your game.</p>
+                </div>
+            </div>
 
-            <div class="pt-3">
-                <a href="https://spice2x.github.io/" class="btn btn-outline-secondary btn-md px-3" target="_blank">
-                    spice2x
-                </a>
-                <a href="https://mon.im/bemanipatcher/" class="btn btn-outline-secondary btn-md px-3" target="_blank">
-                    BemaniPatcher <small>(web version)</small>
-                </a>
+            <div class="d-flex align-items-start my-5">
+                <div class="icon-square text-body-emphasis bg-body-secondary d-inline-flex align-items-center justify-content-center fs-4 flex-shrink-0 me-3">
+                    <i class="bi bi-joystick"></i>
+                </div>
+                <div>
+                    <h3 class="fs-2 text-body-emphasis">Configure the imported patches</h3>
+                    <p>
+                        If all went well, a list of patches should now be available for configuring. These are saved
+                        locally to your <code>patches</code> directory as a JSON file, which will be loaded automatically
+                        each time you start the game.
+                    </p>
+                    <p>Each patch JSON file retrieved from URL corresponds to a specific version of the game. If you
+                        ever upgrade to a newer version of the same game, you will need to repeat the steps above.</p>
+                    <img src="./img/spice2x-patch-manager-imported.png" class="img-fluid pt-2 pb-4"
+                         alt="List of patches available for configuration in spice2x Configuration">
+                    <p>
+                        <strong>Be aware that not every game version is currently supported by this mirror repository.</strong>
+                        The compatibility list below tracks which versions supported by the upstream repository are actively
+                        being converted into spice2x format. <strong>If you have a version that is not yet supported, please
+                        consider submitting <a href="https://github.com/djtrackers/BemaniPatcher/tree/master/metadata"
+                        target="_blank">metadata</a> for it.</strong>
+                    </p>
+                    <p>
+                        If you would like to contribute patches for a brand new game or specific version of a game,
+                        send a pull request to the upstream <a href="https://github.com/mon/BemaniPatcher" target="_blank">
+                        BemaniPatcher</a> project. Be sure to check the README to know what is allowed first!
+                    </p>
+                    <a href="https://github.com/djtrackers/BemaniPatcher/blob/master/STATUS.md"
+                       class="btn btn-primary" target="_blank">
+                        Compatibility list
+                    </a>
+                    <a href="https://mon.im/bemanipatcher/"
+                       class="btn btn-outline-secondary" target="_blank">
+                        BemaniPatcher <small>(web version)</small>
+                    </a>
+                </div>
+            </div>
             </div>
         </main>
     </div>
