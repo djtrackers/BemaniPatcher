@@ -44,13 +44,16 @@ jobs:
       - name: Update compatibility table
         run: node ./status.js ./metadata ./source ./STATUS.md
 
+      - name: Amalgamate individual patches
+        run: node ./amalgamate.js ./output ./output/combined
+
       - name: Push automated commits
         run: git push
 
       - name: Move generated files
         run: |
           mkdir -vp ./deploy/
-          mv -v ./output/*.json ./deploy/
+          mv -v ./output/* ./deploy/
           cp -vr ./html/* ./deploy/
 
       - name: Upload pages artifact
