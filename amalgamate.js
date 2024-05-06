@@ -64,7 +64,18 @@ for (const patchFile of fs.readdirSync(INPUT_DIR))
  * Write output file(s) - for now, only a combined file with all patches
  */
 const outputFilename = path.join(OUTPUT_DIR, 'patches.json');
-fs.writeFileSync(outputFilename, JSON.stringify(output, null, 4));
+const outputContents = JSON.stringify(output, null, 4);
+
+if (fs.existsSync(outputFilename))
+{
+    if (fs.readFileSync(outputFilename, { encoding: 'utf8' }) === outputContents)
+    {
+        console.log(`Output file '${outputFilename}' is already up-to-date...`);
+        process.exit(0);
+    }
+}
+
+fs.writeFileSync(outputFilename, outputContents, { encoding: 'utf8' });
 
 if (!process.env.GIT_NO_COMMIT)
 {
