@@ -8,15 +8,6 @@ The contents of this file are generated automatically.
 
 ## Patcher list
 
-### [IIDX CANNON BALLERS DLL Modder](https://mon.im/bemanipatcher/ballerz.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/ballerz.json) | [2018-09-19](output/LDJ-5b985f71_183324.json) |
-| ❌ | [bm2dx.dll](metadata/ballerz.json) | 2018-07-24 |
-| ❌ | [bm2dx.dll](metadata/ballerz.json) | 2018-06-13 |
-
-
 ### [BeatStream DLL Modder](https://mon.im/bemanipatcher/beatstream1.html)
 
 | Status | Filename | Version |
@@ -29,40 +20,6 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [beatstream.dll](metadata/beatstream2.json) | [2016-11-14](output/NBT-57aaa1e0_471e4.json) |
-
-
-### [IIDX BISTROVER DLL Modder](https://mon.im/bemanipatcher/bistrover.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/bistrover.json) | [2021-04-26](output/LDJ-6080c473_8338b0.json) |
-| ❌ | [bm2dx.dll](metadata/bistrover.json) | 2021-07-05 |
-| ✅ | [bm2dx.dll](metadata/bistrover.json) | [2021-08-30](output/LDJ-612729e9_91a910.json) |
-| ✅ | [bm2dx.dll](metadata/bistrover.json) | [2021-09-15 (LDJ-003)](output/LDJ-613aa4d4_91aa00.json) |
-| ✅ | [bm2dx.dll](metadata/bistrover.json) | [2021-09-15 (LDJ-010)](output/LDJ-613aa28a_9e58d0.json) |
-
-
-### [IIDX CastHour DLL Modder](https://mon.im/bemanipatcher/casthour.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2021-10-13](output/LDJ-615f8b4f_73d62c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2021-10-13 rev.1](output/LDJ-6166642e_73d61c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2021-11-17](output/LDJ-618db775_73f33c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-03-01](output/LDJ-6214444e_6460bc.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-04-12](output/LDJ-624cde85_648a3c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-05-09](output/LDJ-6268e9b4_64f34c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-06-20](output/LDJ-62a2ca92_66281c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-07-13](output/LDJ-62c69413_66431c.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-08-24 (LDJ-003)](output/LDJ-63040c54_6679ac.json) |
-| ✅ | [bm2dx.dll](metadata/casthour.json) | [2022-08-24 (LDJ-010)](output/LDJ-63040b80_73273c.json) |
-
-
-### [IIDX copula DLL Modder](https://mon.im/bemanipatcher/copula.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/copula.json) | [2016-08-31](output/LDJ-57ba48d8_e5d81.json) |
 
 
 ### [DDR 2013 DLL Modder](https://mon.im/bemanipatcher/ddr2013.html)
@@ -217,12 +174,123 @@ The contents of this file are generated automatically.
 | ❌ | popn.dll |  |
 
 
-### [IIDX HEROIC VERSE DLL Modder](https://mon.im/bemanipatcher/heroicverse.html)
+### [IIDX Resort Anthem DLL Modder](https://mon.im/bemanipatcher/iidx18resortanthem.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/heroicverse.json) | [2020-09-29 (LDJ-003)](output/LDJ-5f713b52_6d4090.json) |
-| ✅ | [bm2dx.dll](metadata/heroicverse.json) | [2020-09-29 (LDJ-010)](output/LDJ-5f713946_7f52b0.json) |
+| ❌ | bm2dx.dll | 2011-07-12 |
+
+
+### [IIDX Lincle DLL Modder](https://mon.im/bemanipatcher/iidx19lincle.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2012-09-03 |
+
+
+### [IIDX tricoro DLL Modder](https://mon.im/bemanipatcher/iidx20tricoro.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2012-09-19 |
+| ❌ | bm2dx.dll | 2012-10-09 |
+| ❌ | bm2dx.dll | 2012-12-07 |
+| ❌ | bm2dx.dll | 2013-03-05 |
+| ❌ | bm2dx.dll | 2013-09-09 |
+
+
+### [IIDX SPADA DLL Modder](https://mon.im/bemanipatcher/iidx21spada.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2013-10-02 |
+| ❌ | bm2dx.dll | 2014-07-16 |
+
+
+### [IIDX PENDUAL DLL Modder](https://mon.im/bemanipatcher/iidx22pendual.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2014-09-17 |
+| ❌ | bm2dx.dll | 2015-08-05 |
+
+
+### [IIDX copula DLL Modder](https://mon.im/bemanipatcher/iidx23copula.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2016-08-31 |
+
+
+### [IIDX SINOBUZ DLL Modder](https://mon.im/bemanipatcher/iidx24sinobuz.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2017-08-28 |
+
+
+### [IIDX CANNON BALLERS DLL Modder](https://mon.im/bemanipatcher/iidx25ballerz.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2018-09-19 |
+| ❌ | bm2dx.dll | 2018-07-24 |
+| ❌ | bm2dx.dll | 2018-06-13 |
+
+
+### [IIDX Rootage DLL Modder](https://mon.im/bemanipatcher/iidx26rootage.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2019-01-23 |
+| ❌ | bm2dx.dll | 2019-02-20 |
+| ❌ | bm2dx.dll | 2019-06-03 |
+| ❌ | bm2dx.dll | 2019-09-02 |
+| ❌ | bm2dx.dll | 2019-10-07 |
+
+
+### [IIDX HEROIC VERSE DLL Modder](https://mon.im/bemanipatcher/iidx27heroicverse.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2020-09-29 (LDJ-003) |
+| ❌ | bm2dx.dll | 2020-09-29 (LDJ-010) |
+
+
+### [IIDX BISTROVER DLL Modder](https://mon.im/bemanipatcher/iidx28bistrover.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2021-04-26 |
+| ❌ | bm2dx.dll | 2021-07-05 |
+| ❌ | bm2dx.dll | 2021-08-30 |
+| ❌ | bm2dx.dll | 2021-09-15 (LDJ-003) |
+| ❌ | bm2dx.dll | 2021-09-15 (LDJ-010) |
+
+
+### [IIDX CastHour DLL Modder](https://mon.im/bemanipatcher/iidx29casthour.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2021-10-13 |
+| ❌ | bm2dx.dll | 2021-10-13 rev.1 |
+| ❌ | bm2dx.dll | 2021-11-17 |
+| ❌ | bm2dx.dll | 2022-03-01 |
+| ❌ | bm2dx.dll | 2022-04-12 |
+| ❌ | bm2dx.dll | 2022-05-09 |
+| ❌ | bm2dx.dll | 2022-06-20 |
+| ❌ | bm2dx.dll | 2022-07-13 |
+| ❌ | bm2dx.dll | 2022-08-24 (LDJ-003) |
+| ❌ | bm2dx.dll | 2022-08-24 (LDJ-010) |
+
+
+### [IIDX Resident DLL Modder](https://mon.im/bemanipatcher/iidx30resident.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.dll | 2023-09-05 (LDJ-003) |
+| ❌ | bm2dx.dll | 2023-09-05 (LDJ-010) |
+| ❌ | bm2dx.dll | 2023-09-05 (LDJ-012) |
 
 
 ### [jubeat Ave. DLL Modder](https://mon.im/bemanipatcher/jubeatave.html)
@@ -318,13 +386,6 @@ The contents of this file are generated automatically.
 | ✅ | [music_db.dll](metadata/jubeatsaucerfulfill.json) | [2014-11-18](output/L44-54648eef_43dd.json) |
 
 
-### [IIDX Lincle DLL Modder](https://mon.im/bemanipatcher/lincle.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/lincle.json) | [2012-09-03](output/KDZ-503f32fb_b6262.json) |
-
-
 ### [MÚSECA DLL Modder](https://mon.im/bemanipatcher/museca1.html)
 
 | Status | Filename | Version |
@@ -354,14 +415,6 @@ The contents of this file are generated automatically.
 | ❌ | [nostalgia.dll](metadata/nostalgiaop3.json) | 2020-11-16 |
 | ✅ | [nostalgia.dll](metadata/nostalgiaop3.json) | [2021-12-22](output/PAN-61bc1831_e43f0.json) |
 | ✅ | [nostalgia.dll](metadata/nostalgiaop3.json) | [2022-04-26](output/PAN-62625cf9_e4900.json) |
-
-
-### [IIDX PENDUAL DLL Modder](https://mon.im/bemanipatcher/pendual.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/pendual.json) | [2014-09-17](output/LDJ-53ec605b_ccf53.json) |
-| ✅ | [bm2dx.dll](metadata/pendual.json) | [2015-08-05](output/LDJ-55b9eab9_f2d73.json) |
 
 
 ### [pop'n music Tune Street DLL Modder](https://mon.im/bemanipatcher/popn19tunestreet.html)
@@ -468,33 +521,6 @@ The contents of this file are generated automatically.
 | ✅ | [reflecbeat.dll](metadata/reflecbeat.json) | [2011-08-22](output/KBR-4e4a7a57_9fb2f.json) |
 
 
-### [IIDX Resident DLL Modder](https://mon.im/bemanipatcher/resident.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/resident.json) | [2023-09-05 (LDJ-003)](output/LDJ-64ef0ff5_1037754.json) |
-| ✅ | [bm2dx.dll](metadata/resident.json) | [2023-09-05 (LDJ-010)](output/LDJ-64ef0ec9_844b10.json) |
-| ✅ | [bm2dx.dll](metadata/resident.json) | [2023-09-05 (LDJ-012)](output/LDJ-64ef1153_777dc0.json) |
-
-
-### [IIDX Resort Anthem DLL Modder](https://mon.im/bemanipatcher/resortanthem.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/resortanthem.json) | [2011-07-12](output/JDZ-4e110e2b_ba839.json) |
-
-
-### [IIDX Rootage DLL Modder](https://mon.im/bemanipatcher/rootage.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ❌ | [bm2dx.dll](metadata/rootage.json) | 2019-01-23 |
-| ❌ | [bm2dx.dll](metadata/rootage.json) | 2019-02-20 |
-| ❌ | [bm2dx.dll](metadata/rootage.json) | 2019-06-03 |
-| ✅ | [bm2dx.dll](metadata/rootage.json) | [2019-09-02](output/LDJ-5d651fc5_415844.json) |
-| ✅ | [bm2dx.dll](metadata/rootage.json) | [2019-10-07](output/LDJ-5d91850e_4158c4.json) |
-
-
 ### [SDVX II DLL Modder](https://mon.im/bemanipatcher/sdvx2.html)
 
 | Status | Filename | Version |
@@ -539,30 +565,4 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [soundvoltex.dll](metadata/sdvx6.json) | [2021-12-14](output/KFC-61b19602_57ac68.json) |
-
-
-### [IIDX SINOBUZ DLL Modder](https://mon.im/bemanipatcher/sinobuz.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/sinobuz.json) | [2017-08-28](output/LDJ-599b7176_f4fb1.json) |
-
-
-### [IIDX SPADA DLL Modder](https://mon.im/bemanipatcher/spada.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/spada.json) | [2013-10-02](output/LDJ-525394a7_d19f3.json) |
-| ✅ | [bm2dx.dll](metadata/spada.json) | [2014-07-16](output/LDJ-53bd1ab4_e7173.json) |
-
-
-### [IIDX tricoro DLL Modder](https://mon.im/bemanipatcher/tricoro.html)
-
-| Status | Filename | Version |
-| :---:  |----------|---------|
-| ✅ | [bm2dx.dll](metadata/tricoro.json) | [2012-09-19](output/LDJ-5052a3ea_c4112.json) |
-| ❌ | [bm2dx.dll](metadata/tricoro.json) | 2012-10-09 |
-| ❌ | [bm2dx.dll](metadata/tricoro.json) | 2012-12-07 |
-| ❌ | [bm2dx.dll](metadata/tricoro.json) | 2013-03-05 |
-| ✅ | [bm2dx.dll](metadata/tricoro.json) | [2013-09-09](output/LDJ-521ffeca_d8d73.json) |
 
