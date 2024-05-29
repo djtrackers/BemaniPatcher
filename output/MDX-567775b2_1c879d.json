@@ -180,5 +180,18 @@
                 "dataEnabled": "909090909090909090"
             }
         ]
+    },
+    {
+        "name": "Timing Offset",
+        "description": "Change 993010756 to the actual default of -100. From there, in intervals of 500, subtract to make timing later or add to make it earlier.",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "mdxja_945.dll",
+            "offset": 352958,
+            "min": -10000,
+            "max": 10000,
+            "size": 4
+        }
     }
 ]
