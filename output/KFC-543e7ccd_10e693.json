@@ -2,6 +2,7 @@
     {
         "name": "Freeze timer in all modes",
         "description": "",
+        "caution": "Not properly tested",
         "gameCode": "KFC",
         "type": "memory",
         "patches": [
