@@ -47,16 +47,28 @@ for (const patchFile of fs.readdirSync(INPUT_DIR))
 
     for (const item of JSON.parse(contents))
     {
-        output.push({
-            dateCode: 0,
-            description: item.description,
-            gameCode: item.gameCode,
-            name: item.name,
-            patches: item.patches,
-            preset: false,
-            type: item.type,
-            peIdentifier: path.basename(patchFile, '.json'),
-        });
+        let patch = {};
+
+        patch.dateCode = 0;
+        patch.description = item.description;
+
+        if (item.caution)
+            patch.caution = item.caution;
+
+        patch.gameCode = item.gameCode;
+        patch.name = item.name;
+
+        if (item.patches)
+            patch.patches = item.patches;
+
+        if (item.patch)
+            patch.patch = item.patch;
+
+        patch.preset = false;
+        patch.type = item.type;
+        patch.peIdentifier = path.basename(patchFile, '.json');
+
+        output.push(patch);
     }
 }
 
