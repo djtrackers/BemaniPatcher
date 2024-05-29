@@ -30,6 +30,7 @@
     {
         "name": "Stage Freeze",
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "type": "memory",
         "patches": [
