@@ -88,5 +88,18 @@
                 "dataEnabled": "8944242C909090"
             }
         ]
+    },
+    {
+        "name": "Timing Offset",
+        "description": "Change 2116822084 to the actual default of -1. From there, subtract to make timing later or add to make it earlier.",
+        "gameCode": "JDX",
+        "type": "number",
+        "patch": {
+            "dllName": "ddr.exe",
+            "offset": 281375,
+            "min": -20,
+            "max": 20,
+            "size": 4
+        }
     }
 ]
