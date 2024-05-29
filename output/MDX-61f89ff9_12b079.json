@@ -122,6 +122,7 @@
     {
         "name": "Caution Screen Skip",
         "description": "",
+        "caution": "Breaks World/Area/Shop/Rival score display",
         "gameCode": "MDX",
         "type": "memory",
         "patches": [
@@ -314,6 +315,7 @@
     {
         "name": "PFREE - Force 1st stage forever",
         "description": "",
+        "caution": "Breaks score saving unless the patch below is also enabled.",
         "gameCode": "MDX",
         "type": "memory",
         "patches": [
@@ -328,6 +330,7 @@
     {
         "name": "PFREE score saving",
         "description": "",
+        "caution": "Make sure your network supports this before enabling.",
         "gameCode": "MDX",
         "type": "memory",
         "patches": [
@@ -535,6 +538,71 @@
                 }
             }
         ]
+    },
+    {
+        "name": "SSQ Offset",
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120746,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        }
+    },
+    {
+        "name": "Sound Offset",
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120741,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        }
+    },
+    {
+        "name": "Input Offset",
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120773,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        }
+    },
+    {
+        "name": "Render Offset",
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120810,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        }
+    },
+    {
+        "name": "Bomb Frame Offset",
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "type": "number",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120736,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        }
     },
     {
         "name": "Center arrows for single player",
