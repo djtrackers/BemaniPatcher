@@ -517,6 +517,19 @@
         ]
     },
     {
+        "name": "Monitor Adjust Offset",
+        "description": "Every +1 Adjust is -0.10 offset. Use -28 to make LDJ mode behave like TDJ mode default.",
+        "gameCode": "LDJ",
+        "type": "number",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 9998728,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        }
+    },
+    {
         "name": "Enable 1P Premium Free",
         "description": "",
         "gameCode": "LDJ",
