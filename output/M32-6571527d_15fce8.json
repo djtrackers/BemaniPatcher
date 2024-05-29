@@ -16,6 +16,7 @@
     {
         "name": "Premium Timer Freeze",
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "type": "memory",
         "patches": [
@@ -30,6 +31,7 @@
     {
         "name": "Premium Time 15",
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "type": "union",
         "patches": [
@@ -155,6 +157,7 @@
     {
         "name": "Premium Time 10",
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "type": "union",
         "patches": [
@@ -294,6 +297,7 @@
     {
         "name": "Stage Freeze",
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "type": "memory",
         "patches": [
@@ -362,6 +366,7 @@
     {
         "name": "Skip 'NOW DATA INITIALIZING'",
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "type": "memory",
         "patches": [
