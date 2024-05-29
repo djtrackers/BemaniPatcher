@@ -202,6 +202,22 @@
     },
     {
         "dateCode": 0,
+        "description": "Change 2116822084 to the actual default of -1. From there, subtract to make timing later or add to make it earlier.",
+        "gameCode": "JDX",
+        "name": "Timing Offset",
+        "patch": {
+            "dllName": "ddr.dll",
+            "offset": 306047,
+            "min": -20,
+            "max": 20,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "JDX-4cd93f47_18932a"
+    },
+    {
+        "dateCode": 0,
         "description": "Also affects newer AMD cards",
         "gameCode": "JDX",
         "name": "NVIDIA gray arrow/freeze color fix",
@@ -306,6 +322,22 @@
         ],
         "preset": false,
         "type": "memory",
+        "peIdentifier": "JDX-4cfe04e1_16b582"
+    },
+    {
+        "dateCode": 0,
+        "description": "Change 2116822084 to the actual default of -1. From there, subtract to make timing later or add to make it earlier.",
+        "gameCode": "JDX",
+        "name": "Timing Offset",
+        "patch": {
+            "dllName": "ddr.exe",
+            "offset": 281375,
+            "min": -20,
+            "max": 20,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "JDX-4cfe04e1_16b582"
     },
     {
@@ -711,6 +743,22 @@
     },
     {
         "dateCode": 0,
+        "description": "Change 2116822084 to the actual default of -1. From there, subtract to make timing later or add to make it earlier.",
+        "gameCode": "KDX",
+        "name": "Timing Offset",
+        "patch": {
+            "dllName": "ddr.dll",
+            "offset": 396671,
+            "min": -20,
+            "max": 20,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "KDX-50b1ea68_1a04ed"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "KDZ",
         "name": "Remove Local Play Banner",
@@ -848,6 +896,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Not properly tested",
         "gameCode": "KFC",
         "name": "Freeze timer in all modes",
         "patches": [
@@ -12707,6 +12756,22 @@
         "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 9809688,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-615f8b4f_73d62c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
         "name": "Enable omnimix",
         "patches": [
             {
@@ -13972,6 +14037,22 @@
         "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 9809688,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-6166642e_73d61c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
         "name": "Enable omnimix",
         "patches": [
             {
@@ -15023,6 +15104,22 @@
         ],
         "preset": false,
         "type": "union",
+        "peIdentifier": "LDJ-618db775_73f33c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 9821400,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "LDJ-618db775_73f33c"
     },
     {
@@ -16119,6 +16216,22 @@
     },
     {
         "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 8344504,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-6214444e_6460bc"
+    },
+    {
+        "dateCode": 0,
         "description": "Prevents the CAMERA DEVICE ERROR message from popping up on boot",
         "gameCode": "LDJ",
         "name": "Skip CAMERA DEVICE ERROR Prompt",
@@ -17207,6 +17320,22 @@
         ],
         "preset": false,
         "type": "union",
+        "peIdentifier": "LDJ-624cde85_648a3c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 8359736,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "LDJ-624cde85_648a3c"
     },
     {
@@ -18303,6 +18432,22 @@
     },
     {
         "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 8396872,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-6268e9b4_64f34c"
+    },
+    {
+        "dateCode": 0,
         "description": "Prevents the CAMERA DEVICE ERROR message from popping up on boot",
         "gameCode": "LDJ",
         "name": "Skip CAMERA DEVICE ERROR Prompt",
@@ -19359,6 +19504,22 @@
     },
     {
         "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 8486664,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-62a2ca92_66281c"
+    },
+    {
+        "dateCode": 0,
         "description": "Prevents the CAMERA DEVICE ERROR message from popping up on boot",
         "gameCode": "LDJ",
         "name": "Skip CAMERA DEVICE ERROR Prompt",
@@ -20411,6 +20572,22 @@
         ],
         "preset": false,
         "type": "union",
+        "peIdentifier": "LDJ-62c69413_66431c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 8508024,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "LDJ-62c69413_66431c"
     },
     {
@@ -22545,6 +22722,7 @@
     {
         "dateCode": 0,
         "description": "This will allow the game to run on processors which do not support the SSE4.2 instruction set.",
+        "caution": "If you can successfully boot the game, do NOT check this. This is known to cause a crash when using WASAPI audio.",
         "gameCode": "LDJ",
         "name": "SSE4.2 Fix",
         "patches": [
@@ -23017,6 +23195,22 @@
         ],
         "preset": false,
         "type": "memory",
+        "peIdentifier": "LDJ-64ef0ec9_844b10"
+    },
+    {
+        "dateCode": 0,
+        "description": "Every +1 Adjust is -0.10 offset. Use -28 to make LDJ mode behave like TDJ mode default.",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 10845416,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "LDJ-64ef0ec9_844b10"
     },
     {
@@ -23949,6 +24143,22 @@
         ],
         "preset": false,
         "type": "union",
+        "peIdentifier": "LDJ-64ef0ff5_1037754"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 19347768,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "LDJ-64ef0ff5_1037754"
     },
     {
@@ -25094,6 +25304,22 @@
     },
     {
         "dateCode": 0,
+        "description": "Every +1 Adjust is -0.10 offset. Use -28 to make LDJ mode behave like TDJ mode default.",
+        "gameCode": "LDJ",
+        "name": "Monitor Adjust Offset",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 9998728,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-64ef1153_777dc0"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
         "name": "Enable 1P Premium Free",
@@ -25575,6 +25801,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -25655,6 +25882,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -25735,6 +25963,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -25832,6 +26061,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -25963,6 +26193,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score submission to server",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -26305,6 +26536,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -26322,6 +26554,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -26450,6 +26683,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -26595,6 +26829,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -26675,6 +26910,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -26709,6 +26945,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -26726,6 +26963,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -26854,6 +27092,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -26999,6 +27238,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -27079,6 +27319,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -27113,6 +27354,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -27130,6 +27372,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -27258,6 +27501,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -27403,6 +27647,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -27483,6 +27728,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -27517,6 +27763,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -27534,6 +27781,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -27662,6 +27910,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -27807,6 +28056,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -27887,6 +28137,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -27921,6 +28172,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -27938,6 +28190,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -28066,6 +28319,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -28211,6 +28465,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -28291,6 +28546,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -28325,6 +28581,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -28342,6 +28599,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -28470,6 +28728,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -28615,6 +28874,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -28695,6 +28955,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -28729,6 +28990,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -28746,6 +29008,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -28874,6 +29137,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -29019,6 +29283,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -29099,6 +29364,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -29133,6 +29399,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -29150,6 +29417,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -29278,6 +29546,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -29423,6 +29692,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -29503,6 +29773,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -29537,6 +29808,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -29554,6 +29826,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -29682,6 +29955,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -29827,6 +30101,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -29907,6 +30182,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -29941,6 +30217,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -29958,6 +30235,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -30086,6 +30364,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -30231,6 +30510,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -30311,6 +30591,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -30345,6 +30626,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -30362,6 +30644,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -30490,6 +30773,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -30635,6 +30919,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -30715,6 +31000,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -30749,6 +31035,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -30766,6 +31053,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -30894,6 +31182,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -31039,6 +31328,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -31119,6 +31409,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -31153,6 +31444,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs.",
         "gameCode": "M32",
         "name": "Premium Timer Freeze",
         "patches": [
@@ -31170,6 +31462,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 15",
         "patches": [
@@ -31298,6 +31591,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores will only save on exiting Premium Time, and only up to 20 songs. Recommended to keep this under 45 minutes.",
         "gameCode": "M32",
         "name": "Premium Time 10",
         "patches": [
@@ -31443,6 +31737,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Scores don't save",
         "gameCode": "M32",
         "name": "Stage Freeze",
         "patches": [
@@ -31523,6 +31818,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Useful for testing only",
         "gameCode": "M32",
         "name": "Skip 'NOW DATA INITIALIZING'",
         "patches": [
@@ -36284,6 +36580,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Might interfere with score saving on networks",
         "gameCode": "M39",
         "name": "Skip Menu and Long Note Tutorials",
         "patches": [
@@ -43950,6 +44247,22 @@
     },
     {
         "dateCode": 0,
+        "description": "Change 2083529796 to the actual default of -100. From there, in intervals of 500, subtract to make timing later or add to make it earlier.",
+        "gameCode": "MDX",
+        "name": "Timing Offset",
+        "patch": {
+            "dllName": "mdxja_945.dll",
+            "offset": 317329,
+            "min": -10000,
+            "max": 10000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5333e3e1_186bff"
+    },
+    {
+        "dateCode": 0,
         "description": "Disable this to get coin functionality back",
         "gameCode": "MDX",
         "name": "Coinstrip",
@@ -44149,6 +44462,22 @@
         ],
         "preset": false,
         "type": "memory",
+        "peIdentifier": "MDX-567775b2_1c879d"
+    },
+    {
+        "dateCode": 0,
+        "description": "Change 993010756 to the actual default of -100. From there, in intervals of 500, subtract to make timing later or add to make it earlier.",
+        "gameCode": "MDX",
+        "name": "Timing Offset",
+        "patch": {
+            "dllName": "mdxja_945.dll",
+            "offset": 352958,
+            "min": -10000,
+            "max": 10000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "MDX-567775b2_1c879d"
     },
     {
@@ -44371,6 +44700,86 @@
     },
     {
         "dateCode": 0,
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "name": "SSQ Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108394,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5ad5bc40_105751"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "name": "Sound Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108389,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5ad5bc40_105751"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "name": "Input Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108418,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5ad5bc40_105751"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "name": "Render Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108455,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5ad5bc40_105751"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "name": "Bomb Frame Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108384,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5ad5bc40_105751"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "MDX",
         "name": "Force enable fast/slow",
@@ -44555,6 +44964,86 @@
         ],
         "preset": false,
         "type": "memory",
+        "peIdentifier": "MDX-5bc68795_10d509"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "name": "SSQ Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108554,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5bc68795_10d509"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "name": "Sound Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108549,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5bc68795_10d509"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "name": "Input Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108578,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5bc68795_10d509"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "name": "Render Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108615,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5bc68795_10d509"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "name": "Bomb Frame Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 108544,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "MDX-5bc68795_10d509"
     },
     {
@@ -44941,6 +45430,86 @@
     },
     {
         "dateCode": 0,
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "name": "SSQ Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 117962,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5cb6a13d_119399"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "name": "Sound Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 117957,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5cb6a13d_119399"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "name": "Input Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 117989,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5cb6a13d_119399"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "name": "Render Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 118026,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5cb6a13d_119399"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "name": "Bomb Frame Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 117952,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5cb6a13d_119399"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "MDX",
         "name": "Force enable fast/slow",
@@ -45244,6 +45813,86 @@
     },
     {
         "dateCode": 0,
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "name": "SSQ Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 119434,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5e2e8e40_122d59"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "name": "Sound Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 119429,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5e2e8e40_122d59"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "name": "Input Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 119461,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5e2e8e40_122d59"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "name": "Render Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 119498,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5e2e8e40_122d59"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "name": "Bomb Frame Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 119424,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-5e2e8e40_122d59"
+    },
+    {
+        "dateCode": 0,
         "description": "Changes resolution based on Sceen type",
         "gameCode": "MDX",
         "name": "Screen Setting",
@@ -45457,6 +46106,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks World/Area/Shop/Rival score display",
         "gameCode": "MDX",
         "name": "Caution Screen Skip",
         "patches": [
@@ -45685,6 +46335,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Breaks score saving unless the patch below is also enabled.",
         "gameCode": "MDX",
         "name": "PFREE - Force 1st stage forever",
         "patches": [
@@ -45702,6 +46353,7 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "Make sure your network supports this before enabling.",
         "gameCode": "MDX",
         "name": "PFREE score saving",
         "patches": [
@@ -45923,6 +46575,86 @@
         ],
         "preset": false,
         "type": "union",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later",
+        "gameCode": "MDX",
+        "name": "SSQ Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120746,
+            "min": -1000,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make audio later",
+        "gameCode": "MDX",
+        "name": "Sound Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120741,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make judgement earlier",
+        "gameCode": "MDX",
+        "name": "Input Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120773,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers make arrows later visually",
+        "gameCode": "MDX",
+        "name": "Render Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120810,
+            "min": 0,
+            "max": 1000,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
+        "description": "Bigger numbers delay explosion animation",
+        "gameCode": "MDX",
+        "name": "Bomb Frame Offset",
+        "patch": {
+            "dllName": "gamemdx.dll",
+            "offset": 120736,
+            "min": 0,
+            "max": 10,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
         "peIdentifier": "MDX-61f89ff9_12b079"
     },
     {
