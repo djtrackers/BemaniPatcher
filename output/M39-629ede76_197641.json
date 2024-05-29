@@ -72,6 +72,7 @@
     {
         "name": "Skip Menu and Long Note Tutorials",
         "description": "",
+        "caution": "Might interfere with score saving on networks",
         "gameCode": "M39",
         "type": "memory",
         "patches": [
