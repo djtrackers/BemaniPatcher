@@ -396,6 +396,7 @@
     {
         "name": "SSE4.2 Fix",
         "description": "This will allow the game to run on processors which do not support the SSE4.2 instruction set.",
+        "caution": "If you can successfully boot the game, do NOT check this. This is known to cause a crash when using WASAPI audio.",
         "gameCode": "LDJ",
         "type": "memory",
         "patches": [
