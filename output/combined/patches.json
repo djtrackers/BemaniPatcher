@@ -47232,8 +47232,8 @@
             {
                 "offset": 2393381,
                 "dllName": "museca.dll",
-                "dataDisabled": "75",
-                "dataEnabled": "74"
+                "dataDisabled": "750C",
+                "dataEnabled": "9090"
             }
         ],
         "preset": false,
