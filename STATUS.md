@@ -70,6 +70,14 @@ The contents of this file are generated automatically.
 | ✅ | [gamemdx.dll](metadata/ddra20.json) | [2020-02-03](output/MDX-5e2e8e40_122d59.json) |
 
 
+### [DDR A3 DLL Modder](https://mon.im/bemanipatcher/ddra3.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | gamemdx.dll | 2024-04-02, 2024-05-22 |
+| ❌ | arkmdxp3.dll | 2024-04-02, 2024-05-22 |
+
+
 ### [DDR X2 DLL Modder](https://mon.im/bemanipatcher/ddrx2.html)
 
 | Status | Filename | Version |
