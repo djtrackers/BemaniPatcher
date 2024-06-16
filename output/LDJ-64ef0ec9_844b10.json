@@ -132,6 +132,20 @@
         ]
     },
     {
+        "name": "WASAPI Shared Mode (with 44.1kHz)",
+        "description": "",
+        "gameCode": "LDJ",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 2945637,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "458BF0",
+                "dataEnabled": "4D31F6"
+            }
+        ]
+    },
+    {
         "name": "Skip Camera Device Error",
         "description": "",
         "gameCode": "LDJ",
@@ -793,6 +807,20 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "41BE00320000",
                 "dataEnabled": "41BE00002003"
+            }
+        ]
+    },
+    {
+        "name": "Unscramble touch screen keypad in TDJ",
+        "description": "",
+        "gameCode": "LDJ",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 7446325,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "4D03C849F7F1",
+                "dataEnabled": "BA0C00000090"
             }
         ]
     }
