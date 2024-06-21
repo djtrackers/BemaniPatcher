@@ -137,15 +137,32 @@
     {
         "name": "Force unlock extended paseli exclusive options",
         "description": "Premium mode options such as ARROW COLOR and 0.25 speed mod",
-        "caution": "Not recommended with cards on networks",
         "gameCode": "MDX",
         "type": "memory",
         "patches": [
             {
-                "offset": 451609,
+                "offset": 451657,
                 "dllName": "gamemdx.dll",
-                "dataDisabled": "FF248D6CF90610",
-                "dataEnabled": "E9110100009090"
+                "dataDisabled": "33FF8BC3C7420402000000",
+                "dataEnabled": "E9421FFCFF909090909090"
+            },
+            {
+                "offset": 197520,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "BF010000008BC3C7420402000000E9B1E00300"
+            },
+            {
+                "offset": 452100,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "33FF8BC3C7420403000000",
+                "dataEnabled": "E9868CFCFF909090909090"
+            },
+            {
+                "offset": 225935,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "BF010000008BC3C7420403000000E96D730300"
             }
         ]
     },
