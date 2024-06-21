@@ -2,6 +2,13 @@
     "id": "DDR A3",
     "name": "DanceDanceRevolution A3",
     "patches": {
+        "arkmdxbio2.dll": {
+            "2024-04-02 (MDX-003)": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1708476403,
+                "AddressOfEntryPoint": 589092
+            }
+        },
         "arkmdxp3.dll": {
             "2024-04-02 (MDX-001)": {
                 "GameCodePrefix": "MDX",
@@ -14,6 +21,11 @@
                 "GameCodePrefix": "MDX",
                 "TimeDateStamp": 1711608243,
                 "AddressOfEntryPoint": 1463177
+            },
+            "2024-04-02 (MDX-003)": {
+                "GameCodePrefix": "MDX",
+                "TimeDateStamp": 1711607317,
+                "AddressOfEntryPoint": 1837684
             }
         }
     }
