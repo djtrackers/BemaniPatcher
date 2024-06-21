@@ -3,14 +3,14 @@
     "name": "DanceDanceRevolution A3",
     "patches": {
         "arkmdxp3.dll": {
-            "2024-04-02, 2024-05-22": {
+            "2024-04-02 (MDX-001)": {
                 "GameCodePrefix": "MDX",
                 "TimeDateStamp": 1708476388,
                 "AddressOfEntryPoint": 479003
             }
         },
         "gamemdx.dll": {
-            "2024-04-02, 2024-05-22": {
+            "2024-04-02 (MDX-001)": {
                 "GameCodePrefix": "MDX",
                 "TimeDateStamp": 1711608243,
                 "AddressOfEntryPoint": 1463177
