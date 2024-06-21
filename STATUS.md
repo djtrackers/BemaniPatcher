@@ -74,10 +74,10 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | [gamemdx.dll](metadata/ddra3.json) | 2024-04-02 (MDX-001) |
-| ❌ | [gamemdx.dll](metadata/ddra3.json) | 2024-04-02 (MDX-003) |
-| ❌ | [arkmdxp3.dll](metadata/ddra3.json) | 2024-04-02 (MDX-001) |
-| ❌ | arkmdxbio2.dll | 2024-04-02 (MDX-003) |
+| ✅ | [gamemdx.dll](metadata/ddra3.json) | [2024-04-02 (MDX-001)](output/MDX-660511b3_165389.json) |
+| ✅ | [gamemdx.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-66050e15_1c0a74.json) |
+| ✅ | [arkmdxp3.dll](metadata/ddra3.json) | [2024-04-02 (MDX-001)](output/MDX-65d547e4_74f1b.json) |
+| ✅ | [arkmdxbio2.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-65d547f3_8fd24.json) |
 
 
 ### [DDR X2 DLL Modder](https://mon.im/bemanipatcher/ddrx2.html)
