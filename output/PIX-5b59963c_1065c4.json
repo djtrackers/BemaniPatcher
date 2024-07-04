@@ -106,5 +106,25 @@
                 "dataEnabled": "9090"
             }
         ]
+    },
+    {
+        "name": "Timer freeze",
+        "description": "",
+        "gameCode": "PIX",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 2680336,
+                "dllName": "museca.dll",
+                "dataDisabled": "0F85260100",
+                "dataEnabled": "E927010000"
+            },
+            {
+                "offset": 2653246,
+                "dllName": "museca.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            }
+        ]
     }
 ]
