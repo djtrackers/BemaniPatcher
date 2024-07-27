@@ -663,5 +663,86 @@
                 }
             }
         ]
+    },
+    {
+        "name": "OmniMIX",
+        "description": "v1.2",
+        "caution": "Convert .m2v movies to .wmv, or default background stages show",
+        "gameCode": "MDX",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 148300,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 205131,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "14",
+                "dataEnabled": "26"
+            },
+            {
+                "offset": 205409,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "14",
+                "dataEnabled": "26"
+            },
+            {
+                "offset": 977894,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 978226,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "7436",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 978236,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 978264,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "0F84E5030000",
+                "dataEnabled": "909090909090"
+            },
+            {
+                "offset": 978274,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "0F84DB030000",
+                "dataEnabled": "909090909090"
+            },
+            {
+                "offset": 978376,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "0F95C0",
+                "dataEnabled": "B00190"
+            },
+            {
+                "offset": 1018545,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 1086311,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "10",
+                "dataEnabled": "20"
+            },
+            {
+                "offset": 1086448,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "10",
+                "dataEnabled": "20"
+            }
+        ]
     }
 ]
