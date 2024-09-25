@@ -725,6 +725,12 @@
         "type": "memory",
         "patches": [
             {
+                "offset": 5838932,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7425",
+                "dataEnabled": "9090"
+            },
+            {
                 "offset": 6695456,
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "7473",
