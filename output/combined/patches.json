@@ -23562,6 +23562,12 @@
         "name": "Omnimix",
         "patches": [
             {
+                "offset": 5838932,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7425",
+                "dataEnabled": "9090"
+            },
+            {
                 "offset": 6695456,
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "7473",
@@ -25768,6 +25774,12 @@
         "gameCode": "LDJ",
         "name": "Omnimix",
         "patches": [
+            {
+                "offset": 4998708,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7425",
+                "dataEnabled": "9090"
+            },
             {
                 "offset": 5855760,
                 "dllName": "bm2dx.dll",
