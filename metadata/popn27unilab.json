@@ -1,0 +1,13 @@
+{
+    "id": "pop'n 27",
+    "name": "pop'n music UniLab",
+    "patches": {
+        "popn22.dll": {
+            "2024-07-31": {
+                "GameCodePrefix": "M39",
+                "TimeDateStamp": 1721206291,
+                "AddressOfEntryPoint": 1592256
+            }
+        }
+    }
+}
