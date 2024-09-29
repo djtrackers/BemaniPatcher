@@ -487,6 +487,13 @@ The contents of this file are generated automatically.
 | ✅ | [popn22.dll](metadata/popn26riddles.json) | [2022-06-13](output/M39-629ede76_197641.json) |
 
 
+### [pop'n music UniLab DLL Modder](https://mon.im/bemanipatcher/popn27unilab.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ✅ | [popn22.dll](metadata/popn27unilab.json) | [2024-07-31](output/M39-66978613_184bc0.json) |
+
+
 ### [REFLEC BEAT colette DLL Modder](https://mon.im/bemanipatcher/reflecbeat-colette.html)
 
 | Status | Filename | Version |
