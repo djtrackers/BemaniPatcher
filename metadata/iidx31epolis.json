@@ -1,0 +1,18 @@
+{
+    "id": "IIDX 31",
+    "name": "beatmania IIDX 31 EPOLIS",
+    "patches": {
+        "bm2dx.dll": {
+            "2024-08-26 (LDJ-010)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1724222258,
+                "AddressOfEntryPoint": 11010236
+            },
+            "2024-08-26 (LDJ-012)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1724223473,
+                "AddressOfEntryPoint": 10170940
+            }
+        }
+    }
+}
