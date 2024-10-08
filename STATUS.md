@@ -303,6 +303,13 @@ The contents of this file are generated automatically.
 | ✅ | [bm2dx.dll](metadata/iidx30resident.json) | [2023-09-05 (LDJ-012)](output/LDJ-64ef1153_777dc0.json) |
 
 
+### [IIDX EPOLIS DLL Modder](https://mon.im/bemanipatcher/iidx31epolis.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ✅ | [bm2dx.dll](metadata/iidx31epolis.json) | [2024-08-26 (LDJ-010)](output/LDJ-66c58b32_a800bc.json) |
+
+
 ### [jubeat Ave. DLL Modder](https://mon.im/bemanipatcher/jubeatave.html)
 
 | Status | Filename | Version |
