@@ -308,6 +308,7 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [bm2dx.dll](metadata/iidx31epolis.json) | [2024-08-26 (LDJ-010)](output/LDJ-66c58b32_a800bc.json) |
+| ✅ | [bm2dx.dll](metadata/iidx31epolis.json) | [2024-08-26 (LDJ-012)](output/LDJ-66c58ff1_9b323c.json) |
 
 
 ### [jubeat Ave. DLL Modder](https://mon.im/bemanipatcher/jubeatave.html)
