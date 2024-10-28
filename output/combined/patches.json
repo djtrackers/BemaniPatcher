@@ -29358,6 +29358,48 @@
     {
         "dateCode": 0,
         "description": "",
+        "caution": "music_*.bin 3MB -> 6MB",
+        "gameCode": "LDJ",
+        "name": "Omnimix Increase Buffer",
+        "patches": [
+            {
+                "offset": 8508251,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8D",
+                "dataEnabled": "8B"
+            },
+            {
+                "offset": 8508336,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8D",
+                "dataEnabled": "8B"
+            },
+            {
+                "offset": 8508411,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8D",
+                "dataEnabled": "8B"
+            },
+            {
+                "offset": 8508785,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8D",
+                "dataEnabled": "8B"
+            },
+            {
+                "offset": 8511501,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "85C07F0ABB0A000000E98B000000488D4C2440E8DBC915004863C84881F9000030007607BB14000000EB6E41B800003000488D153B0030068BCBFF",
+                "dataEnabled": "B900006000BA01000000E8F8822000EB204889024883C010488942104883E8104889C289D941B800006000EB0D90909090488D153B003006EBD7FF"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-66c58ff1_9b323c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
         "gameCode": "M32",
         "name": "Timer Freeze",
         "patches": [
