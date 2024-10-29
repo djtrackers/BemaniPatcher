@@ -26004,6 +26004,12 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "4D03C849F7F1",
                 "dataEnabled": "BA0C00000090"
+            },
+            {
+                "offset": 9887771,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "33D248F7F3",
+                "dataEnabled": "BA0C000000"
             }
         ],
         "preset": false,
@@ -27620,6 +27626,18 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "E86EA90300",
                 "dataEnabled": "B801000000"
+            },
+            {
+                "offset": 8536595,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "32C0",
+                "dataEnabled": "0C01"
+            },
+            {
+                "offset": 8536609,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "0F94C0",
+                "dataEnabled": "0C0190"
             }
         ],
         "preset": false,
@@ -27875,6 +27893,12 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "4D03C849F7F1",
                 "dataEnabled": "BA0C00000090"
+            },
+            {
+                "offset": 9048539,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "33D248F7F3",
+                "dataEnabled": "BA0C000000"
             }
         ],
         "preset": false,
@@ -29319,6 +29343,18 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "E86EA90300",
                 "dataEnabled": "B801000000"
+            },
+            {
+                "offset": 7696259,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "32C0",
+                "dataEnabled": "0C01"
+            },
+            {
+                "offset": 7696273,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "0F94C0",
+                "dataEnabled": "0C0190"
             }
         ],
         "preset": false,
