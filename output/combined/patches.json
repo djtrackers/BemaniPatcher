@@ -25863,6 +25863,23 @@
     },
     {
         "dateCode": 0,
+        "description": "Prevents an additional subscreen countdown on the transition from result to music select",
+        "gameCode": "LDJ",
+        "name": "Video Purchase Timer Freeze",
+        "patches": [
+            {
+                "offset": 9809213,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "FFC8",
+                "dataEnabled": "9090"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
         "name": "Allow 1-99m Premium Free Length",
@@ -26265,6 +26282,24 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "41BE00320000",
                 "dataEnabled": "41BE00002003"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Verify if your hardware and network can support this",
+        "gameCode": "LDJ",
+        "name": "Force 120 FPS Recording Output .mp4",
+        "patches": [
+            {
+                "offset": 13679448,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "3C",
+                "dataEnabled": "78"
             }
         ],
         "preset": false,
