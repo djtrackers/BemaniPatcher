@@ -1655,16 +1655,16 @@
                 "dataEnabled": "B801000000"
             },
             {
-                "offset": 8536595,
+                "offset": 6220975,
                 "dllName": "bm2dx.dll",
-                "dataDisabled": "32C0",
-                "dataEnabled": "0C01"
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
             },
             {
-                "offset": 8536609,
+                "offset": 6023705,
                 "dllName": "bm2dx.dll",
-                "dataDisabled": "0F94C0",
-                "dataEnabled": "0C0190"
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
             }
         ]
     },
