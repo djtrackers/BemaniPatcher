@@ -583,6 +583,7 @@ The contents of this file are generated automatically.
 | ✅ | [soundvoltex.dll](metadata/sdvx5.json) | [2019-10-31 (CN ver.)](output/KFC-5dbaae15_36ea80.json) |
 | ✅ | [soundvoltex.dll](metadata/sdvx5.json) | [2020-01-15](output/KFC-5e18527b_31c780.json) |
 | ✅ | [soundvoltex.dll](metadata/sdvx5.json) | [2020-12-22](output/KFC-5fdadbea_330980.json) |
+| ❌ | [soundvoltex.dll](metadata/sdvx5.json) | 2021-01-17 (Offline ver.) |
 
 
 ### [SDVX VI DLL Modder](https://mon.im/bemanipatcher/sdvx6.html)
