@@ -184,6 +184,13 @@ The contents of this file are generated automatically.
 | ❌ | popn.dll |  |
 
 
+### [IIDX DJ TROOPERS EXE Modder](https://mon.im/bemanipatcher/iidx15djtroopers.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | bm2dx.exe | 2007-11-26 (DEBUG VERSION) |
+
+
 ### [IIDX Resort Anthem DLL Modder](https://mon.im/bemanipatcher/iidx18resortanthem.html)
 
 | Status | Filename | Version |
