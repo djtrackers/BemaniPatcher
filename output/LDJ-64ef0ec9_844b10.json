@@ -574,6 +574,20 @@
         ]
     },
     {
+        "name": "WMV Bga Crash Fix",
+        "description": "Omnimix Only",
+        "gameCode": "LDJ",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 6702047,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "01",
+                "dataEnabled": "03"
+            }
+        ]
+    },
+    {
         "name": "Reroute FREE PLAY Text",
         "description": "",
         "gameCode": "LDJ",
