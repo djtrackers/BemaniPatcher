@@ -23397,6 +23397,23 @@
     },
     {
         "dateCode": 0,
+        "description": "Omnimix Only",
+        "gameCode": "LDJ",
+        "name": "WMV Bga Crash Fix",
+        "patches": [
+            {
+                "offset": 6702047,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "01",
+                "dataEnabled": "03"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-64ef0ec9_844b10"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
         "name": "Reroute FREE PLAY Text",
