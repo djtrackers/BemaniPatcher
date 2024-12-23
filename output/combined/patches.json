@@ -26325,6 +26325,150 @@
     },
     {
         "dateCode": 0,
+        "description": "Default: 25 NetworkSuggest: 20 LocalSuggest: 16",
+        "caution": "Verify if your network allows modifying this. Lower values increase quality at the cost of file size.",
+        "gameCode": "LDJ",
+        "name": "Set Video Recording Quality (Constant QP I Frame)",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 5569032,
+            "min": -1,
+            "max": 51,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
+        "description": "Default: 28 NetworkSuggest: 23 LocalSuggest: 19",
+        "caution": "Verify if your network allows modifying this. Lower values increase quality at the cost of file size.",
+        "gameCode": "LDJ",
+        "name": "Set Video Recording Quality (Constant QP P Frame)",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 5569002,
+            "min": -1,
+            "max": 51,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
+        "description": "Default: 31 NetworkSuggest: 25 LocalSuggest: 21",
+        "caution": "Verify if your network allows modifying this. Lower values increase quality at the cost of file size.",
+        "gameCode": "LDJ",
+        "name": "Set Video Recording Quality (Constant QP B Frame)",
+        "patch": {
+            "dllName": "bm2dx.dll",
+            "offset": 5569010,
+            "min": -1,
+            "max": 51,
+            "size": 4
+        },
+        "preset": false,
+        "type": "number",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Values other than default (160 kbps) may cause the game to crash. Try recording locally before actually playing with a non-default value.",
+        "gameCode": "LDJ",
+        "name": "Set Audio Recording Output AAC Bitrate",
+        "patches": [
+            {
+                "name": "64 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "4000",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "96 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "6000",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "128 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "8000",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "160 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "A000",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "196 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "C400",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "224 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "E000",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "256 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "0001",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "288 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "2001",
+                    "offset": 10492916
+                }
+            },
+            {
+                "name": "320 kbps",
+                "type": "union",
+                "patch": {
+                    "dllName": "bm2dx.dll",
+                    "data": "4001",
+                    "offset": 10492916
+                }
+            }
+        ],
+        "preset": false,
+        "type": "union",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "caution": "Boot in LDJ mode when using 010 DLL",
         "gameCode": "LDJ",
