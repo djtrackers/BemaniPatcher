@@ -253,6 +253,7 @@ The contents of this file are generated automatically.
 | ✅ | [bm2dx.dll](metadata/iidx25ballerz.json) | [2018-09-19](output/LDJ-5b985f71_183324.json) |
 | ❌ | [bm2dx.dll](metadata/iidx25ballerz.json) | 2018-07-24 |
 | ❌ | [bm2dx.dll](metadata/iidx25ballerz.json) | 2018-06-13 |
+| ❌ | bm2dx_debug.dll | 2017-07-19 (DEBUG VERSION) |
 
 
 ### [IIDX Rootage DLL Modder](https://mon.im/bemanipatcher/iidx26rootage.html)
