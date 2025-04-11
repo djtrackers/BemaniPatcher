@@ -50783,6 +50783,59 @@
     },
     {
         "dateCode": 0,
+        "description": "Enable OmniMIX support",
+        "gameCode": "MDX",
+        "name": "OmniMIX",
+        "patches": [
+            {
+                "offset": 122119,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 168195,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "7508",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 168201,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "12",
+                "dataEnabled": "26"
+            },
+            {
+                "offset": 592467,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 651528,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "10",
+                "dataEnabled": "20"
+            },
+            {
+                "offset": 651630,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "10",
+                "dataEnabled": "20"
+            },
+            {
+                "offset": 1871968,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "5A960000000000005B960000000000002896000000000000229600000000000013960000000000001196000000000000129600000000000010960000000000000C96000000000000FF950000000000000096000000000000EC950000000000007D950000000000007E9500000000000080950000000000008195000000000000829500000000000083950000000000008495000000000000000034420000803F",
+                "dataEnabled": "862900000000000005840000000000002E9300000000000021700000000000003390000000000000A1010000000000001B2A0000000000001581000000000000102A000000000000AD01000000000000A7000000000000001C91000000000000582A000000000000402900000000000091010000000000008C29000000000000EF2E00000000000074000000000000000D29000000000000000034420000803F"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "MDX-61f89ff9_12b079"
+    },
+    {
+        "dateCode": 0,
         "description": "Changes resolution based on sceen type, among other things",
         "gameCode": "MDX",
         "name": "Mode Layout",
