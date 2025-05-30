@@ -135,6 +135,20 @@
         ]
     },
     {
+        "name": "Force enable Dan courses",
+        "description": "Allows playing Dan class courses on regular cabinets",
+        "gameCode": "MDX",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 978236,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            }
+        ]
+    },
+    {
         "name": "Force unlock extended paseli exclusive options",
         "description": "Premium mode options such as ARROW COLOR and 0.25 speed mod",
         "gameCode": "MDX",
