@@ -1865,5 +1865,92 @@
                 "dataEnabled": "B900006000BA01000000E878802000EB204889024883C010488942104883E8104889C289D941B800006000EB0D90909090488D157B3F3306EBD7FF"
             }
         ]
+    },
+    {
+        "type": "memory",
+        "name": "TDJonLDJ",
+        "description": "Lets you run TDJ mode on legacy cabinets.",
+        "caution": "FOR CABS ONLY.",
+        "gameCode": "LDJ",
+        "patches": [
+            {
+                "offset": 10416637,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8E",
+                "dataEnabled": "8F"
+            },
+            {
+                "offset": 10432098,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 9483196,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 10409024,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10433771,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 10433853,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 9260904,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430998,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430614,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430718,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10431329,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10408320,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10410446,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            }
+        ]
     }
 ]
