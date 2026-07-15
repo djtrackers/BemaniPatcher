@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Timer Freeze",
+        "description": "Freezes the in-game timer.",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 3656234,
+                "dllName": "superstep.dll",
+                "dataDisabled": "89430C",
+                "dataEnabled": "909090"
+            }
+        ]
+    },
+    {
+        "name": "Unlock All Songs",
+        "description": "Unlocks all songs.",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 8476232,
+                "dllName": "superstep.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 8476280,
+                "dllName": "superstep.dll",
+                "dataDisabled": "00",
+                "dataEnabled": "01"
+            },
+            {
+                "offset": 8482185,
+                "dllName": "superstep.dll",
+                "dataDisabled": "7507",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 8482190,
+                "dllName": "superstep.dll",
+                "dataDisabled": "00",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 9834597,
+                "dllName": "superstep.dll",
+                "dataDisabled": "66",
+                "dataEnabled": "62"
+            }
+        ]
+    },
+    {
+        "name": "Hide Bottom Text",
+        "description": "Hides text such as EVENT MODE, PASELI, COIN, CREDIT.",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 8233763,
+                "dllName": "superstep.dll",
+                "dataDisabled": "0F84",
+                "dataEnabled": "90E9"
+            },
+            {
+                "offset": 8234411,
+                "dllName": "superstep.dll",
+                "dataDisabled": "744F",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 8234416,
+                "dllName": "superstep.dll",
+                "dataDisabled": "0F84",
+                "dataEnabled": "90E9"
+            }
+        ]
+    },
+    {
+        "name": "Change number of Light stages (Boot)",
+        "description": "Change the number of stages in Light mode.",
+        "caution": "If set to 4 or 5, additional graphics must be sideloaded to make the stage number show correctly.",
+        "gameCode": "REC",
+        "type": "union",
+        "patches": [
+            {
+                "name": "1 Stage",
+                "patch": {
+                    "offset": 8198258,
+                    "dllName": "superstep.dll",
+                    "data": "C7430401000000C7430801000000EB15"
+                }
+            },
+            {
+                "name": "2 Stages (Default)",
+                "patch": {
+                    "offset": 8198258,
+                    "dllName": "superstep.dll",
+                    "data": "33D24C8D43040F1F840000000000418B"
+                }
+            },
+            {
+                "name": "3 Stages",
+                "patch": {
+                    "offset": 8198258,
+                    "dllName": "superstep.dll",
+                    "data": "C7430403000000C7430803000000EB15"
+                }
+            },
+            {
+                "name": "4 Stages",
+                "patch": {
+                    "offset": 8198258,
+                    "dllName": "superstep.dll",
+                    "data": "C7430404000000C7430804000000EB15"
+                }
+            },
+            {
+                "name": "5 Stages",
+                "patch": {
+                    "offset": 8198258,
+                    "dllName": "superstep.dll",
+                    "data": "C7430405000000C7430805000000EB15"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Change number of Light stages (Factory Reset)",
+        "description": "Change the number of Light stages (when Game Options are reinitialized).",
+        "caution": "If set to 4 or 5, additional graphics must be sideloaded to make the stage number show correctly.",
+        "gameCode": "REC",
+        "type": "union",
+        "patches": [
+            {
+                "name": "1 Stage",
+                "patch": {
+                    "offset": 8199920,
+                    "dllName": "superstep.dll",
+                    "data": "01000000C7410801"
+                }
+            },
+            {
+                "name": "2 Stages (Default)",
+                "patch": {
+                    "offset": 8199920,
+                    "dllName": "superstep.dll",
+                    "data": "02000000C7410802"
+                }
+            },
+            {
+                "name": "3 Stages",
+                "patch": {
+                    "offset": 8199920,
+                    "dllName": "superstep.dll",
+                    "data": "03000000C7410803"
+                }
+            },
+            {
+                "name": "4 Stages",
+                "patch": {
+                    "offset": 8199920,
+                    "dllName": "superstep.dll",
+                    "data": "04000000C7410804"
+                }
+            },
+            {
+                "name": "5 Stages",
+                "patch": {
+                    "offset": 8199920,
+                    "dllName": "superstep.dll",
+                    "data": "05000000C7410805"
+                }
+            }
+        ]
+    },
+    {
+        "name": "Hide \"Play Twice\" Message",
+        "description": "Hide message during play-mode select stating \"you can play the dance game twice\" in Light mode.\nIntended for use when changing the number of Light stages.",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 7571561,
+                "dllName": "superstep.dll",
+                "dataDisabled": "E832F30C00",
+                "dataEnabled": "9090909090"
+            }
+        ]
+    },
+    {
+        "name": "Force Japanese Announcer (Menus)",
+        "description": "Always use the japanese announcer (outside of How to Play and Lessons).",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 10024921,
+                "dllName": "superstep.dll",
+                "dataDisabled": "5F652E733370",
+                "dataEnabled": "2E7333700000"
+            }
+        ]
+    },
+    {
+        "name": "Force Japanese Announcer (Tutorials)",
+        "description": "Always use the japanese announcer during How to Play and Lessons.",
+        "caution": "",
+        "gameCode": "REC",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 10024886,
+                "dllName": "superstep.dll",
+                "dataDisabled": "5F652E733370",
+                "dataEnabled": "2E7333700000"
+            }
+        ]
+    }
+]
