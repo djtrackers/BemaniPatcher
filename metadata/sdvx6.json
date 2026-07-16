@@ -7,6 +7,11 @@
                 "GameCodePrefix": "KFC",
                 "TimeDateStamp": 1639028226,
                 "AddressOfEntryPoint": 5745768
+            },
+            "2025-12-09": {
+                "GameCodePrefix": "KFC",
+                "TimeDateStamp": 1764854304,
+                "AddressOfEntryPoint": 7659096
             }
         }
     }
