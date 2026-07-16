@@ -42,7 +42,7 @@
         ]
     },
     {
-        "name": "Increase hi-speed range to 1.0-2.5",
+        "name": "Change Hi-Speed range to 1.0 ~ 2.5",
         "description": "",
         "gameCode": "NBT",
         "type": "memory",
@@ -144,6 +144,38 @@
                 "dllName": "beatstream.dll",
                 "dataDisabled": "488B05B50F470183780801743D837830010F94C084C07532",
                 "dataEnabled": "E867C5E1FF83B88C010000017543C6878000000001EB3A90"
+            }
+        ]
+    },
+    {
+        "name": "Force windowed mode",
+        "description": "Makes the game launch in windowed mode *with both screens* as separate windows",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1941524,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 1942595,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 1942774,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 1947983,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "94",
+                "dataEnabled": "95"
             }
         ]
     }
