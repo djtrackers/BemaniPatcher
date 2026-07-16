@@ -649,6 +649,69 @@
         ]
     },
     {
+        "name": "Fullscreen FPS Target",
+        "description": "",
+        "caution": "Experimental: fast animations and menu scrolling",
+        "gameCode": "MDX",
+        "type": "union",
+        "patches": [
+            {
+                "name": "60 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "3C000000",
+                    "offset": 6153
+                }
+            },
+            {
+                "name": "120 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "78000000",
+                    "offset": 6153
+                }
+            },
+            {
+                "name": "144 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "90000000",
+                    "offset": 6153
+                }
+            },
+            {
+                "name": "165 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "A5000000",
+                    "offset": 6153
+                }
+            },
+            {
+                "name": "240 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "F0000000",
+                    "offset": 6153
+                }
+            },
+            {
+                "name": "360 FPS",
+                "type": "union",
+                "patch": {
+                    "dllName": "gamemdx.dll",
+                    "data": "68010000",
+                    "offset": 6153
+                }
+            }
+        ]
+    },
+    {
         "name": "OmniMIX",
         "description": "Enable OmniMIX support",
         "gameCode": "MDX",
