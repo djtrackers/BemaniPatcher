@@ -78,7 +78,7 @@ The contents of this file are generated automatically.
 | ✅ | [gamemdx.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-66050e15_1c0a74.json) |
 | ✅ | [arkmdxp3.dll](metadata/ddra3.json) | [2024-04-02 (MDX-001)](output/MDX-65d547e4_74f1b.json) |
 | ✅ | [arkmdxbio2.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-65d547f3_8fd24.json) |
-| ❌ | arkmdxp4.dll | 2024-04-02 (MDX-003) |
+| ✅ | [arkmdxp4.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-65d547ba_8fd24.json) |
 
 
 ### [DDR X2 DLL Modder](https://mon.im/bemanipatcher/ddrx2.html)
@@ -344,7 +344,7 @@ The contents of this file are generated automatically.
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
-| ❌ | jubeat.dll | 2025-02-05 |
+| ✅ | [jubeat.dll](metadata/jubeatbeyondtheave.json) | [2025-02-05](output/L44-67a05b54_20f070.json) |
 
 
 ### [jubeat clan DLL Modder](https://mon.im/bemanipatcher/jubeatclan.html)
@@ -624,7 +624,7 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [soundvoltex.dll](metadata/sdvx6.json) | [2021-12-14](output/KFC-61b19602_57ac68.json) |
-| ❌ | [soundvoltex.dll](metadata/sdvx6.json) | 2025-12-09 |
+| ✅ | [soundvoltex.dll](metadata/sdvx6.json) | [2025-12-09](output/KFC-69318a20_74de58.json) |
 
 
 ### [WACCA Lily Modder](https://mon.im/bemanipatcher/waccalily.html)
