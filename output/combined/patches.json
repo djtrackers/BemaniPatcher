@@ -8576,6 +8576,23 @@
         "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
+        "name": "Skip Monitor Check",
+        "patches": [
+            {
+                "offset": 2885577,
+                "dllName": "bm2dx_debug.dll",
+                "dataDisabled": "7C",
+                "dataEnabled": "7D"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-596ee6b3_28efb0"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "gameCode": "LDJ",
         "name": "Timer Freeze",
         "patches": [
             {
