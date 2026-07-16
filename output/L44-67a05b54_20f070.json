@@ -1,0 +1,810 @@
+[
+    {
+        "name": "English Patch",
+        "description": "Intended to be used in conjunction with texture patches.",
+        "gameCode": "L44",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 2479388,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82A082C6256493FA",
+                "dataEnabled": "256464206C656674"
+            },
+            {
+                "offset": 2479400,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82A082C625648E9E8AD4",
+                "dataEnabled": "256468206C6566740000"
+            },
+            {
+                "offset": 2479412,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82A082C6256495AA",
+                "dataEnabled": "25646D206C656674"
+            },
+            {
+                "offset": 2480244,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "835883528341256488C88FE382C5834E838A8341",
+                "dataEnabled": "53636F7265202564206F72206D6F726500000000"
+            },
+            {
+                "offset": 2480268,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8D878C76835883528341256488C88FE382C5834E838A8341",
+                "dataEnabled": "436C6561722077697468202564206F72206D6F7265000000"
+            },
+            {
+                "offset": 2480296,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "48415A41524420455843256482C5834E838A8341",
+                "dataEnabled": "476574203E2025642048415A4152442045584300"
+            },
+            {
+                "offset": 2480320,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "48415A415244204643256482C5834E838A8341",
+                "dataEnabled": "476574203E2025642048415A41524420464300"
+            },
+            {
+                "offset": 2483544,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F0835883528341256488C88FE382C5834E838A8341",
+                "dataEnabled": "436C6561722062792067657474696E67203E20256400000000000000000000"
+            },
+            {
+                "offset": 2483588,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A415244204558433182C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A4152442045584331"
+            },
+            {
+                "offset": 2483620,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882CC8D878C76835883528341256488C88FE382C5834E838A8341",
+                "dataEnabled": "436C6561722062792067657474696E67203E20256420746F74616C0000000000000000"
+            },
+            {
+                "offset": 2483656,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A415244204558433382C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A4152442045584333"
+            },
+            {
+                "offset": 2483688,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A415244204558433282C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A4152442045584332"
+            },
+            {
+                "offset": 2483720,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A4152442046433282C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A41524420464332"
+            },
+            {
+                "offset": 2483752,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A4152442046433182C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A41524420464331"
+            },
+            {
+                "offset": 2483796,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC8338BC882F048415A4152442046433382C5834E838A8341",
+                "dataEnabled": "436C65617220616C6C20736F6E6773206F6E2048415A41524420464333"
+            },
+            {
+                "offset": 2483832,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A4152442045584331817A5045524645435482F03189F193A682B782C6814182BB82CC8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A4152442045584331817A4D697373696E672050455246454354206F6E63652077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E00000000000000"
+            },
+            {
+                "offset": 2483908,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415244204D4F4445817A92CA8FED82E682E882E094BB92E882AA8CB582B582AD82C882E882DC82B78142",
+                "dataEnabled": "817948415244204D4F4445817A54686520646966662E20697320686967686572207468616E206E6F726D616C2E"
+            },
+            {
+                "offset": 2483960,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A4152442045584333817A5045524645435482F03389F193A682B782C6814182BB82CC8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A4152442045584333817A4D697373696E6720504552464543542074687265652074696D65732077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E"
+            },
+            {
+                "offset": 2484040,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A4152442045584332817A5045524645435482F03289F193A682B782C6814182BB82CC8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A4152442045584332817A4D697373696E6720504552464543542074776963652077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E000000000000"
+            },
+            {
+                "offset": 2484120,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A41524420464332817A504F4F5282E082B582AD82CD4D49535382AA3289F18F6F82BD8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A41524420464332817A47657474696E672074776F20504F4F52206F72204D4953532077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E00000000"
+            },
+            {
+                "offset": 2484200,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A41524420464331817A504F4F5282E082B582AD82CD4D49535382AA3189F18F6F82BD8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A41524420464331817A47657474696E67206F6E6520504F4F52206F72204D4953532077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E00000000"
+            },
+            {
+                "offset": 2484296,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "817948415A41524420464333817A504F4F5282E082B582AD82CD4D49535382AA3389F18F6F82BD8E9E935F82C58BAD90A7934982C98376838C815B82AA8F4997B982B582DC82B78142",
+                "dataEnabled": "817948415A41524420464333817A47657474696E6720746872656520504F4F52206F72204D4953532077696C6C20656E642074686520736F6E6720696D6D6564696174656C792E0000"
+            },
+            {
+                "offset": 2486496,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "2573208E9E935F",
+                "dataEnabled": "25732074696D65"
+            },
+            {
+                "offset": 2486544,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8F578C76928600",
+                "dataEnabled": "4C6F6164696E67"
+            },
+            {
+                "offset": 2512176,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "3193FA8DC591E525648CC282DC82C5935F939482C582AB82DC82B7",
+                "dataEnabled": "25642063616E206265206C697420706572206461792E0000000000"
+            },
+            {
+                "offset": 2512504,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A4A8DC38AFA8AD42025642E253032642E2530326428257329253032643A2530326482DC82C5",
+                "dataEnabled": "48656C6420756E74696C2025642E253032642E2530326428257329253032643A253032640000"
+            },
+            {
+                "offset": 2512888,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "967B93FA8F4997B90000",
+                "dataEnabled": "456E647320746F646179"
+            },
+            {
+                "offset": 2513668,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "81760A82CC8A798BC882F08376838C815B",
+                "dataEnabled": "81760A506C6179206120736F6E67000000"
+            },
+            {
+                "offset": 2513688,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "834A83658353838A8175",
+                "dataEnabled": "43617465676F72798175"
+            },
+            {
+                "offset": 2513724,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "935F88C88FE3",
+                "dataEnabled": "3E0000000000"
+            },
+            {
+                "offset": 2513732,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC80A82F0834E838A8341",
+                "dataEnabled": "436C6561720A736F6E670000000000"
+            },
+            {
+                "offset": 2513748,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC80A",
+                "dataEnabled": "436C6561720A00"
+            },
+            {
+                "offset": 2513756,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82C546554C4C20434F4D424F",
+                "dataEnabled": "262046554C4C20434F4D424F"
+            },
+            {
+                "offset": 2513772,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82C5455843454C4C454E54",
+                "dataEnabled": "2620455843454C4C454E54"
+            },
+            {
+                "offset": 2513788,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89DB91E88BC80A82CC",
+                "dataEnabled": "436C6561720A000000"
+            },
+            {
+                "offset": 2513800,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "83528393837B",
+                "dataEnabled": "436F6D626F00"
+            },
+            {
+                "offset": 2513808,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4D41544348494E472053454C4543540A82F0914991F082B582C48376838C815B",
+                "dataEnabled": "506C6179206120736F6E6720776974680A4D41544348494E472053454C454354"
+            },
+            {
+                "offset": 2513844,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82C50A",
+                "dataEnabled": "260A00"
+            },
+            {
+                "offset": 2513848,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "838C8378838B",
+                "dataEnabled": "4C6576656C00"
+            },
+            {
+                "offset": 2513856,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "48415244204D4F444582C50A00",
+                "dataEnabled": "496E2048415244204D4F44450A"
+            },
+            {
+                "offset": 2513872,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "967B93FA8F898376838C815B0000",
+                "dataEnabled": "31737420706C617920746F646179"
+            },
+            {
+                "offset": 2513888,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "52414E444F4D2053454C4543540A82F0914991F082B582C48376838C815B",
+                "dataEnabled": "506C6179206120736F6E6720776974680A52414E444F4D2053454C454354"
+            },
+            {
+                "offset": 2513920,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "48415244204D4F444582C58376838C815B",
+                "dataEnabled": "506C6179206F6E2048415244204D4F4445"
+            },
+            {
+                "offset": 2515080,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC882F0834E838A8341",
+                "dataEnabled": "436C65617220736F6E670000"
+            },
+            {
+                "offset": 2515096,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC80A82F0834E838A8341",
+                "dataEnabled": "436C6561720A736F6E67000000"
+            },
+            {
+                "offset": 2515112,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "958896CA82F0834E838A8341",
+                "dataEnabled": "436C65617220636861727400"
+            },
+            {
+                "offset": 2515128,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "958896CA0A82F0834E838A8341",
+                "dataEnabled": "436C6561720A63686172740000"
+            },
+            {
+                "offset": 2515152,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82CC8A798BC882F0834E838A8341",
+                "dataEnabled": "436C65617220736F6E6700000000"
+            },
+            {
+                "offset": 2515168,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "0A82CC8A798BC882F0834E838A8341",
+                "dataEnabled": "0A436C65617220736F6E6700000000"
+            },
+            {
+                "offset": 2515184,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "83528393837B924290AC",
+                "dataEnabled": "436F6D626F20646F6E65"
+            },
+            {
+                "offset": 2515196,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "48415244204D4F444582C5834E838A834100",
+                "dataEnabled": "436C656172206F6E2048415244204D4F4445"
+            },
+            {
+                "offset": 2515216,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4D4953532C504F4F5282CC0A8D878C7682AA",
+                "dataEnabled": "4D4953532C504F4F520A746F74616C3A2000"
+            },
+            {
+                "offset": 2515236,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4D49535382CC0A8D878C7682AA",
+                "dataEnabled": "4D4953530A746F74616C3A2000"
+            },
+            {
+                "offset": 2515252,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89F188C893E0",
+                "dataEnabled": "3E206F6E6365"
+            },
+            {
+                "offset": 2515260,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "5045524645435482CC0A8D878C7682AA",
+                "dataEnabled": "504552464543540A746F74616C3A2000"
+            },
+            {
+                "offset": 2515280,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "504552464543542C475245415482CC0A8D878C7682AA",
+                "dataEnabled": "504552464543542C47524541540A746F74616C3A2000"
+            },
+            {
+                "offset": 2515304,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "504552464543542C47524541542C474F4F4482CC0A8D878C7682AA",
+                "dataEnabled": "504552464543542C47524541542C474F4F440A746F74616C3A2000"
+            },
+            {
+                "offset": 2515332,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "89F188C88FE3",
+                "dataEnabled": "3E206F6E6365"
+            },
+            {
+                "offset": 2515340,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "88C88FE382C5834E838A8341",
+                "dataEnabled": "436F6D706C65746500000000"
+            },
+            {
+                "offset": 2515356,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "0A82F0834E838A8341",
+                "dataEnabled": "0A636C656172000000"
+            },
+            {
+                "offset": 2515384,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "0A82F0914991F082B582C4834E838A8341",
+                "dataEnabled": "0A73656C65637420616E6420636C656172"
+            },
+            {
+                "offset": 2515444,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82F0924290AC",
+                "dataEnabled": "446F6E650000"
+            },
+            {
+                "offset": 2515464,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "88C88FE382F0924290AC",
+                "dataEnabled": "41626F766520646F6E65"
+            },
+            {
+                "offset": 2515484,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837D815B834A815B82F08E6782C182C4834E838A8341",
+                "dataEnabled": "557365206D61726B657220746F20636C656172000000"
+            },
+            {
+                "offset": 2515508,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837D815B834A815B0A82F08E6782C182C4834E838A8341",
+                "dataEnabled": "557365206D61726B65720A746F20636C65617200000000"
+            },
+            {
+                "offset": 2703856,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "936093B182C589F08BD6",
+                "dataEnabled": "436F6E64756374656400"
+            },
+            {
+                "offset": 2703868,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC882F089F08BD6",
+                "dataEnabled": "556E6C6F636B65640000"
+            },
+            {
+                "offset": 2703880,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837E8362835683878393836783898378838B82C589F08BD6",
+                "dataEnabled": "46726F6D204D697373696F6E2054726176656C0000000000"
+            },
+            {
+                "offset": 2703908,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8374838B8352839383608383838C8393835782C589F08BD600",
+                "dataEnabled": "46726F6D2046554C4C20434F4D424F204348414C4C454E4745"
+            },
+            {
+                "offset": 2704000,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "834383788393836782C589F08BD6",
+                "dataEnabled": "46726F6D206576656E7400000000"
+            },
+            {
+                "offset": 2704016,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "534D4954482053545245455482C589F08BD6",
+                "dataEnabled": "534D49544820535452454554206F70656E00"
+            },
+            {
+                "offset": 2704036,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "915393EF937846554C4C20434F4D424F924290AC",
+                "dataEnabled": "46554C4C20434F4D424F20616C6C20646966662E"
+            },
+            {
+                "offset": 2704060,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "424F4E55532054554E4582C589F08BD6",
+                "dataEnabled": "46726F6D20424F4E55532054554E4500"
+            },
+            {
+                "offset": 2704080,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "53544152205245434F524482C589F08BD6",
+                "dataEnabled": "46726F6D2053544152205245434F524400"
+            },
+            {
+                "offset": 2704100,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "504A204D4154434882C589F08BD6",
+                "dataEnabled": "46726F6D20504A204D4154434800"
+            },
+            {
+                "offset": 2704116,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4C49474854204348415482C589F08BD6",
+                "dataEnabled": "46726F6D204C49474854204348415400"
+            },
+            {
+                "offset": 2704136,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837483898362834F8389838A815B82C589F08BD6",
+                "dataEnabled": "46726F6D20466C61672052616C6C790000000000"
+            },
+            {
+                "offset": 2704160,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8374838B8352839383608383838C8393835790AC8CF7",
+                "dataEnabled": "46554C4C20434F4D424F204348414C4C454E47450000"
+            },
+            {
+                "offset": 2704184,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC88376838C815B82C5455843454C4C454E54",
+                "dataEnabled": "455843454C4C454E5420706C617900000000000000"
+            },
+            {
+                "offset": 2704208,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8DA18F5482CC83498358835883818A798BC882F00A834E838A8341",
+                "dataEnabled": "436C6561722074686973207765656B27730A736F6E677300000000"
+            },
+            {
+                "offset": 2704236,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82CD82B682DF82C482CC958896CA82F0834E838A8341",
+                "dataEnabled": "466972737420636861727420636C6561726564000000"
+            },
+            {
+                "offset": 2704260,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8382836D834E838D8370815B836382F08F8A8E9D82B582BD0A8FF391D482C58A5993968BC8313089F18376838C815B",
+                "dataEnabled": "506C6179206120736F6E672031302074696D657320776974682061206D6F6E6F6368726F6D65207061727400000000"
+            },
+            {
+                "offset": 2704308,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "915393EF9378834E838A8341924290AC00",
+                "dataEnabled": "416C6C20646966662E20636C6561726564"
+            },
+            {
+                "offset": 2704328,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC88376838C815B82C546554C4C20434F4D424F",
+                "dataEnabled": "46554C4C20434F4D424F20706C617900000000000000"
+            },
+            {
+                "offset": 2704352,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8F898376838C815B8B4C944F93C19354",
+                "dataEnabled": "466972737420706C617920626F6E7573"
+            },
+            {
+                "offset": 2704372,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "504A204D4154434882C58A6C93BE",
+                "dataEnabled": "46726F6D20504A204D4154434800"
+            },
+            {
+                "offset": 2704388,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "53544152205245434F524482C58A6C93BE",
+                "dataEnabled": "46726F6D2053544152205245434F524400"
+            },
+            {
+                "offset": 2704408,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4C49474854204348415482C58A6C93BE",
+                "dataEnabled": "46726F6D204C49474854204348415400"
+            },
+            {
+                "offset": 2704428,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837483898362834F8389838A815B82C58A6C93BE",
+                "dataEnabled": "46726F6D20466C61672052616C6C790000000000"
+            },
+            {
+                "offset": 2704452,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8E5189C191E589EF95F18F56",
+                "dataEnabled": "4576656E7420706C61796564"
+            },
+            {
+                "offset": 2704468,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82AB82E582A482CC83498358835883818A798BC882F00A834E838A834100",
+                "dataEnabled": "436C65617220746F6461792773207265636F6D6D656E6465640A736F6E67"
+            },
+            {
+                "offset": 2704500,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837E8362835683878393836783898378838B82C58A6C93BE",
+                "dataEnabled": "46726F6D204D697373696F6E2054726176656C0000000000"
+            },
+            {
+                "offset": 2704528,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "54554E452052554E8AAE91968B4C944F93C19354",
+                "dataEnabled": "54554E452052554E2046696E6973686564000000"
+            },
+            {
+                "offset": 2704552,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D5553494381695049434B205550816A0A91CE8FDB93FC82E82033308BC8924290AC",
+                "dataEnabled": "544152474554204D5553494381695049434B205550816A0A333020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2704596,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D5553494381695049434B205550816A0A91CE8FDB93FC82E82032308BC8924290AC",
+                "dataEnabled": "544152474554204D5553494381695049434B205550816A0A323020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2704640,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D555349438169434F4D4D4F4E816A0A91CE8FDB93FC82E82032308BC8924290AC",
+                "dataEnabled": "544152474554204D555349438169434F4D4D4F4E816A0A323020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2704684,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D555349438169434F4D4D4F4E816A0A91CE8FDB93FC82E82031308BC8924290AC",
+                "dataEnabled": "544152474554204D555349438169434F4D4D4F4E816A0A313020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2704728,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "834383788393836782C58A6C93BE",
+                "dataEnabled": "46726F6D204576656E7400000000"
+            },
+            {
+                "offset": 2704744,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "534D4954482053545245455482C58A6C93BE",
+                "dataEnabled": "46726F6D20534D4954482053545245455400"
+            },
+            {
+                "offset": 2704764,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D5553494381695049434B205550816A0A91CE8FDB93FC82E82031308BC8924290AC",
+                "dataEnabled": "544152474554204D5553494381695049434B205550816A0A313020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2704808,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "6A75626561748358835E8362837482A982E782CC0A8376838C835B83938367",
+                "dataEnabled": "4120676966742066726F6D207468650A6A7562656174207374616666000000"
+            },
+            {
+                "offset": 2704960,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "544152474554204D555349438169434F4D4D4F4E816A0A91CE8FDB93FC82E82033308BC8924290AC",
+                "dataEnabled": "544152474554204D555349438169434F4D4D4F4E816A0A333020536F6E6773204163686965766564"
+            },
+            {
+                "offset": 2719912,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8351815B8380",
+                "dataEnabled": "47616D650000"
+            },
+            {
+                "offset": 2719920,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "938C95FB8341838C83938357",
+                "dataEnabled": "546F75686F75000000000000"
+            },
+            {
+                "offset": 2719936,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8349838A83578369838B",
+                "dataEnabled": "4F726967696E616C0000"
+            },
+            {
+                "offset": 2719948,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "834E838983568362834E",
+                "dataEnabled": "436C6173736963000000"
+            },
+            {
+                "offset": 2719960,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "837C836283768358",
+                "dataEnabled": "506F700000000000"
+            },
+            {
+                "offset": 2719972,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "835C815B83568383838B837E8385815B83578362834E",
+                "dataEnabled": "4A6170616E205472656E64696E670000000000000000"
+            },
+            {
+                "offset": 2719996,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8341836A8381",
+                "dataEnabled": "416E696D6500"
+            },
+            {
+                "offset": 2720532,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8DA18F5482CC8349835883588381",
+                "dataEnabled": "5765656B6C7920536F6E67730000"
+            },
+            {
+                "offset": 2746992,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "546172676574206D757369632091CE8FDB93FC82E8",
+                "dataEnabled": "416464656420746F20746172676574206D75736963"
+            },
+            {
+                "offset": 2747040,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "939E924282C5836C815B8380834A8389815B83608346839383578149",
+                "dataEnabled": "20697320746865206E65787420636F6C6F7221000000000000000000"
+            },
+            {
+                "offset": 2747072,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4C8AC725648CC28A6C93BE",
+                "dataEnabled": "2B2564204C2D7475626500"
+            },
+            {
+                "offset": 2747084,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "4D8AC725648CC28A6C93BE",
+                "dataEnabled": "2B2564204D2D7475626500"
+            },
+            {
+                "offset": 2747096,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "538AC725648CC28A6C93BE",
+                "dataEnabled": "2B256420532D7475626500"
+            },
+            {
+                "offset": 2747108,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "25646A776174748A6C93BE",
+                "dataEnabled": "2B2564206A776174740000"
+            },
+            {
+                "offset": 2747120,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8375815B83588367837E8362835683878393834E838A8341",
+                "dataEnabled": "426F6F7374206D697373696F6E20636C6561726564000000"
+            },
+            {
+                "offset": 2796176,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8B4382C982C882E9834A83658353838A8370836C838B82F0835E8362836081490A82B28AF3965D82CC8A798BC882F082A8914982D182B582DC82B78142",
+                "dataEnabled": "43686F6F736520612063617465676F7279210A546F75636820746865206F6E6520796F752764206C696B652E0000000000000000000000000000000000"
+            },
+            {
+                "offset": 2796256,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC896BC82A982E782A8925482B582B582DC82B781420A82ED82BD82AD82B582AA915397CD82C58CA982C282AF82C48E5182E882DC82B78149",
+                "dataEnabled": "536561726368206279207469746C652E0A49276C6C20747279206D79206265737420746F2066696E6420697420666F7220796F7521000000000000"
+            },
+            {
+                "offset": 2796332,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC882CC4C4556454C82A982E782A8925482B582B582DC82B781420A8DA189F182CD82C782CC93EF82B582B382C992A790ED82B582DC82B782A98148",
+                "dataEnabled": "536561726368206279204C4556454C2E0A576869636820646966666963756C7479207368616C6C20796F7520706C617920746869732074696D653F000000"
+            },
+            {
+                "offset": 2796616,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "834783938367838A815B82B582C482A282E991E589EF88EA979782C582B78142",
+                "dataEnabled": "546F75726E616D656E747320796F7527726520656E746572656420696E2E0000"
+            },
+            {
+                "offset": 2796668,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "6A7562656174204C61622E82CC45444954958896CA82AA975682D782DC82B781490A905682B582A2958896CA82F08A7982B582DD82DC82B582E582A48142",
+                "dataEnabled": "506C6179206A7562656174204C61622E204544495420636861727473210A596F752063616E20706C6179206E6577206368617274732E0000000000000000"
+            },
+            {
+                "offset": 2796760,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8A798BC882CC835783838393838B82A982E782A8925482B582B582DC82B781420A8B4382C982C882E9835783838393838B82CD82A082E882DC82B782A98148",
+                "dataEnabled": "5365617263682062792067656E72652E0A446F20796F752068617665206F6E6520696E206D696E643F00000000000000000000000000000000000000000000"
+            },
+            {
+                "offset": 2796848,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82A082C882BD82CC90AC90D182A982E782A8925482B582B582DC82B781420A8FE38EE882AD82C882E882BD82A2906C82CD9776836083468362834E8149",
+                "dataEnabled": "5765276C6C2066696E6420636861727473206261736564206F6E20796F757220736B696C6C2E0A55736566756C20666F7220696D70726F76696E672100"
+            },
+            {
+                "offset": 2796928,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "836F8389834783658342964C82A982C8837D815B834A815B82F00A8EE682E891B582A682C482A882E882DC82B781420A82C782CC837D815B834A815B82AA82A88D4482AB82C582B782A98148",
+                "dataEnabled": "57652068617665206120776964650A76617269657479206F66206D61726B6572732E0A576869636820646F20796F75206C696B653F0000000000000000000000000000000000000000000000"
+            },
+            {
+                "offset": 2797032,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "976C815882C894778C6982F00A8EE682E891B582A682C482A882E882DC82B781420A967B93FA82CD82C782CC94778C6982C982A282BD82B582DC82B582E582A48142",
+                "dataEnabled": "57652068617665206D616E790A6261636B67726F756E647320617661696C61626C652E0A5768696368207368616C6C2077652063686F6F736520746F6461793F0000"
+            },
+            {
+                "offset": 2797124,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "6A756265617482F082E682E8905B82AD82A88A7982B582DD92B882AF82E90A8FE38B898ED28CFC82AF82CC8B40945C82C582B78142",
+                "dataEnabled": "54686573652061726520616476616E636564206F7074696F6E7320666F720A706C6179657273207365656B696E67207468656D2E20"
+            },
+            {
+                "offset": 2797184,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "82B182B182C582CD8A658EED90DD92E882AA82C582AB82DC82B782E681420A8B4395AA82C98D8782ED82B982C495CF82A682C482DD82C482CD0A82A282A982AA82C582B582E582A482A98142",
+                "dataEnabled": "4865726520796F752063616E2061646A75737420766172696F75732073657474696E67732E0A50657268617073206368616E6765207468656D20746F207375697420796F7572206D6F6F643F"
+            },
+            {
+                "offset": 2797276,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "836F815B83578387839382A982E782A8925482B582B582DC82B781420A8DA18DEC82CD6265796F6E6420746865204176652E82C582B78149",
+                "dataEnabled": "5365617263682062792076657273696F6E2E0A546869732076657273696F6E206973206265796F6E6420746865204176652E210000000000"
+            },
+            {
+                "offset": 2797532,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "6A756265617482F00A82E682E8905B82AD82A88A7982B582DD92B882AF82E98B40945C82C582B78142",
+                "dataEnabled": "456E6A6F79206A75626561740A66757274686572207573696E67207468657365206F7074696F6E732E"
+            },
+            {
+                "offset": 2797608,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "8341815B836583428358836782A982E782A8925482B582B582DC82B781420A8D4482AB82C88341815B836583428358836782AA0A82AB82C182C68CA982C282A982E882DC82B782E68149",
+                "dataEnabled": "536561726368206279206172746973742E0A596F75277265207375726520746F2066696E6420796F7572206661766F726974652100000000000000000000000000000000000000000000"
+            }
+        ]
+    },
+    {
+        "name": "SELECT MUSIC - don't loop song preview",
+        "description": "",
+        "gameCode": "L44",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1796535,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "00"
+            }
+        ]
+    }
+]
