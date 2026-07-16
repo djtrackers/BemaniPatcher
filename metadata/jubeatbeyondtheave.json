@@ -1,0 +1,13 @@
+{
+    "id": "jubeat Beyond the Ave.",
+    "name": "jubeat Beyond the Ave.",
+    "patches": {
+        "jubeat.dll": {
+            "2025-02-05": {
+                "GameCodePrefix": "L44",
+                "TimeDateStamp": 1738562388,
+                "AddressOfEntryPoint": 2158704
+            }
+        }
+    }
+}
