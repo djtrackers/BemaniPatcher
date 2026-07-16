@@ -78,6 +78,7 @@ The contents of this file are generated automatically.
 | ✅ | [gamemdx.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-66050e15_1c0a74.json) |
 | ✅ | [arkmdxp3.dll](metadata/ddra3.json) | [2024-04-02 (MDX-001)](output/MDX-65d547e4_74f1b.json) |
 | ✅ | [arkmdxbio2.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-65d547f3_8fd24.json) |
+| ❌ | arkmdxp4.dll | 2024-04-02 (MDX-003) |
 
 
 ### [DDR X2 DLL Modder](https://mon.im/bemanipatcher/ddrx2.html)
@@ -103,6 +104,7 @@ The contents of this file are generated automatically.
 | ❌ | [superstep.dll](metadata/drs.json) | 2018-10-16 |
 | ✅ | [superstep.dll](metadata/drs.json) | [2020-12-14](output/REC-5fd067bc_527b80.json) |
 | ✅ | [superstep.dll](metadata/drs.json) | [2022-12-14](output/REC-639165c3_52b620.json) |
+| ❌ | [superstep.dll](metadata/drs.json) | 2024-11-26 |
 
 
 ### [GITADORA EXCHAIN DLL Modder](https://mon.im/bemanipatcher/gitadoraexchain.html)
@@ -130,6 +132,15 @@ The contents of this file are generated automatically.
 | ✅ | [game.dll](metadata/gitadorafuzzup.json) | [2023-12-19](output/M32-6571527d_15fce8.json) |
 | ✅ | [game.dll](metadata/gitadorafuzzup.json) | [2024-01-16](output/M32-6595ffbf_161d88.json) |
 | ✅ | [game.dll](metadata/gitadorafuzzup.json) | [2024-02-20](output/M32-65c44dda_162048.json) |
+
+
+### [GITADORA GALAXY WAVE DLL Modder](https://mon.im/bemanipatcher/gitadoragalaxywave.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | game.dll | 2024-08-07 |
+| ❌ | boot.dll | 2024-08-07 |
+| ❌ | libshare-pj.dll | 2024-08-07 |
 
 
 ### [GITADORA HIGH-VOLTAGE DLL Modder](https://mon.im/bemanipatcher/gitadorahighvoltage.html)
@@ -327,6 +338,13 @@ The contents of this file are generated automatically.
 | ✅ | [jubeat.dll](metadata/jubeatave.json) | [2023-08-08](output/L44-64cb3e88_1fec50.json) |
 | ✅ | [music_db.dll](metadata/jubeatave.json) | [2022-08-03](output/L44-62de87f5_b01e.json) |
 | ✅ | [music_db.dll](metadata/jubeatave.json) | [2023-08-08](output/L44-64ae942d_b1c0.json) |
+
+
+### [jubeat Beyond the Ave. DLL Modder](https://mon.im/bemanipatcher/jubeatbeyondtheave.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | jubeat.dll | 2025-02-05 |
 
 
 ### [jubeat clan DLL Modder](https://mon.im/bemanipatcher/jubeatclan.html)
@@ -606,4 +624,26 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ✅ | [soundvoltex.dll](metadata/sdvx6.json) | [2021-12-14](output/KFC-61b19602_57ac68.json) |
+| ❌ | [soundvoltex.dll](metadata/sdvx6.json) | 2025-12-09 |
+
+
+### [WACCA Lily Modder](https://mon.im/bemanipatcher/waccalily.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | Mercury-Win64-Shipping.exe | 2.04.00 |
+
+
+### [WACCA Lily R Modder](https://mon.im/bemanipatcher/waccalilyr.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | Mercury-Win64-Shipping.exe | 2.53.00 |
+
+
+### [WACCA S Modder](https://mon.im/bemanipatcher/waccas.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | Mercury.exe | 1.50.06 |
 
