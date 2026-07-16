@@ -1,7 +1,7 @@
 [
     {
         "name": "Mode Layout",
-        "description": "Changes resolution based on sceen type, among other things",
+        "description": "Changes resolution based on screen type, among other things",
         "gameCode": "MDX",
         "type": "union",
         "patches": [
