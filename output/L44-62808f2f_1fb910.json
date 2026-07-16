@@ -14,6 +14,20 @@
         ]
     },
     {
+        "name": "SELECT MUSIC - don't loop song preview",
+        "description": "",
+        "gameCode": "L44",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1720583,
+                "dllName": "jubeat.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "00"
+            }
+        ]
+    },
+    {
         "name": "SELECT MUSIC Timer Lock",
         "description": "",
         "gameCode": "L44",
