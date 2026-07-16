@@ -26,5 +26,51 @@
                 "dataEnabled": "BB00000000E9AE010000"
             }
         ]
+    },
+    {
+        "name": "Shorter Monitor Check",
+        "description": "",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1930766,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "1E",
+                "dataEnabled": "03"
+            }
+        ]
+    },
+    {
+        "name": "Force windowed mode",
+        "description": "Makes the game launch in windowed mode *with both screens* as separate windows",
+        "gameCode": "NBT",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 1946004,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 1947174,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 1947365,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "EB"
+            },
+            {
+                "offset": 1953938,
+                "dllName": "beatstream.dll",
+                "dataDisabled": "94",
+                "dataEnabled": "95"
+            }
+        ]
     }
 ]
