@@ -8,6 +8,13 @@
                 "TimeDateStamp": 1536712561,
                 "AddressOfEntryPoint": 1585956
             }
+        },
+        "bm2dx_debug.dll": {
+            "2017-07-19 (DEBUG VERSION)": {
+                "GameCodePrefix": "LDJ",
+                "TimeDateStamp": 1500440243,
+                "AddressOfEntryPoint": 2682800
+            }
         }
     }
 }
