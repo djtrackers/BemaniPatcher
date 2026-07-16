@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Skip Monitor Check",
+        "description": "",
+        "gameCode": "LDJ",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 2885577,
+                "dllName": "bm2dx_debug.dll",
+                "dataDisabled": "7C",
+                "dataEnabled": "7D"
+            }
+        ]
+    }
+]
