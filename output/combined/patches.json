@@ -11279,6 +11279,186 @@
     },
     {
         "dateCode": 0,
+        "description": "Lets you run TDJ mode on legacy cabinets",
+        "caution": "FOR CABS ONLY",
+        "gameCode": "LDJ",
+        "name": "TDJonLDJ",
+        "patches": [
+            {
+                "offset": 7718709,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "84",
+                "dataEnabled": "85"
+            },
+            {
+                "offset": 7734094,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 7246396,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 7712097,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 7735435,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 7735517,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 7055399,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "85",
+                "dataEnabled": "84"
+            },
+            {
+                "offset": 7733045,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 7732677,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 7732779,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 7733357,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 7713519,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-5f713946_7f52b0"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Halves most light rates to stock-like behaviour. Should be used along with LDJ 120Hz edits or TDJonLDJ",
+        "gameCode": "LDJ",
+        "name": "Stock LDJ 120Hz Light Speed",
+        "patches": [
+            {
+                "offset": 6835430,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 6903948,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 6835422,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7C"
+            },
+            {
+                "offset": 3876446,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCC",
+                "dataEnabled": "D1F9"
+            },
+            {
+                "offset": 7241534,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B0DD0B82504",
+                "dataEnabled": "B92000000090"
+            },
+            {
+                "offset": 6836546,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "5A",
+                "dataEnabled": "57"
+            },
+            {
+                "offset": 6835357,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCC",
+                "dataEnabled": "8B713C"
+            },
+            {
+                "offset": 6835458,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B4B3C",
+                "dataEnabled": "D1FE90"
+            },
+            {
+                "offset": 6835467,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "E903D1",
+                "dataEnabled": "EE01F2"
+            },
+            {
+                "offset": 6835483,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "2BC8",
+                "dataEnabled": "29C6"
+            },
+            {
+                "offset": 6835486,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "F9",
+                "dataEnabled": "FE"
+            },
+            {
+                "offset": 7245687,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "448B491841D1F9EB10"
+            },
+            {
+                "offset": 7245741,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "448B4318",
+                "dataEnabled": "458BC190"
+            },
+            {
+                "offset": 7246362,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "72",
+                "dataEnabled": "59"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-5f713946_7f52b0"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
         "name": "Disable TDJ check for exclusive songs",
@@ -14034,6 +14214,192 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "E803",
                 "dataEnabled": "0100"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-613aa28a_9e58d0"
+    },
+    {
+        "dateCode": 0,
+        "description": "Lets you run TDJ mode on legacy cabinets",
+        "caution": "FOR CABS ONLY",
+        "gameCode": "LDJ",
+        "name": "TDJonLDJ",
+        "patches": [
+            {
+                "offset": 9675573,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "84",
+                "dataEnabled": "85"
+            },
+            {
+                "offset": 9690958,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 8715708,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 9668961,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 9692299,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 9692381,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 8513191,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "85",
+                "dataEnabled": "84"
+            },
+            {
+                "offset": 9689909,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 9689541,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 9689643,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 9690221,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 9668257,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 9670383,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-613aa28a_9e58d0"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Halves most light rates to stock-like behaviour. Should be used along with LDJ 120Hz edits or TDJonLDJ",
+        "gameCode": "LDJ",
+        "name": "Stock LDJ 120Hz Light Speed",
+        "patches": [
+            {
+                "offset": 8258886,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 8355113,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 8258878,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "2E",
+                "dataEnabled": "2C"
+            },
+            {
+                "offset": 4501870,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCC",
+                "dataEnabled": "D1F9"
+            },
+            {
+                "offset": 8710846,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B0D0092DF04",
+                "dataEnabled": "B92000000090"
+            },
+            {
+                "offset": 8260002,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "5A",
+                "dataEnabled": "57"
+            },
+            {
+                "offset": 8258813,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCC",
+                "dataEnabled": "8B713C"
+            },
+            {
+                "offset": 8258914,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B4B3C",
+                "dataEnabled": "D1FE90"
+            },
+            {
+                "offset": 8258923,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "E903D1",
+                "dataEnabled": "EE01F2"
+            },
+            {
+                "offset": 8258939,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "2BC8",
+                "dataEnabled": "29C6"
+            },
+            {
+                "offset": 8258942,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "F9",
+                "dataEnabled": "FE"
+            },
+            {
+                "offset": 8714999,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "448B491841D1F9EB10"
+            },
+            {
+                "offset": 8715053,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "448B4318",
+                "dataEnabled": "458BC190"
+            },
+            {
+                "offset": 8715674,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "72",
+                "dataEnabled": "59"
             }
         ],
         "preset": false,
@@ -24559,6 +24925,192 @@
     },
     {
         "dateCode": 0,
+        "description": "Lets you run TDJ mode on legacy cabinets",
+        "caution": "FOR CABS ONLY",
+        "gameCode": "LDJ",
+        "name": "TDJonLDJ",
+        "patches": [
+            {
+                "offset": 6742277,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "84",
+                "dataEnabled": "85"
+            },
+            {
+                "offset": 6757662,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 5601580,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 6734673,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 6759003,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 6759085,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 5396951,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "85",
+                "dataEnabled": "84"
+            },
+            {
+                "offset": 6756613,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 6756245,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 6756347,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 6756925,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "74",
+                "dataEnabled": "75"
+            },
+            {
+                "offset": 6733969,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 6736095,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-63040b80_73273c"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Halves most light rates to stock-like behaviour. Should be used along with LDJ 120Hz edits or TDJonLDJ",
+        "gameCode": "LDJ",
+        "name": "Stock LDJ 120Hz Light Speed",
+        "patches": [
+            {
+                "offset": 5126022,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 5236041,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 5126014,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "5E",
+                "dataEnabled": "5C"
+            },
+            {
+                "offset": 3367390,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCC",
+                "dataEnabled": "D1F9"
+            },
+            {
+                "offset": 5596718,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B0D10D82A06",
+                "dataEnabled": "B92000000090"
+            },
+            {
+                "offset": 5127138,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "5A",
+                "dataEnabled": "57"
+            },
+            {
+                "offset": 5125949,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCC",
+                "dataEnabled": "8B713C"
+            },
+            {
+                "offset": 5126050,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B4B3C",
+                "dataEnabled": "D1FE90"
+            },
+            {
+                "offset": 5126059,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "E903D1",
+                "dataEnabled": "EE01F2"
+            },
+            {
+                "offset": 5126075,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "2BC8",
+                "dataEnabled": "29C6"
+            },
+            {
+                "offset": 5126078,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "F9",
+                "dataEnabled": "FE"
+            },
+            {
+                "offset": 5600871,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "448B491841D1F9EB10"
+            },
+            {
+                "offset": 5600925,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "448B4318",
+                "dataEnabled": "458BC190"
+            },
+            {
+                "offset": 5601546,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "72",
+                "dataEnabled": "59"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-63040b80_73273c"
+    },
+    {
+        "dateCode": 0,
         "description": "",
         "gameCode": "LDJ",
         "name": "Shim Lightning Mode IO (for old versions of spicetools)",
@@ -26003,6 +26555,192 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "4D03C849F7F1",
                 "dataEnabled": "BA0C00000090"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-64ef0ec9_844b10"
+    },
+    {
+        "dateCode": 0,
+        "description": "Lets you run TDJ mode on legacy cabinets",
+        "caution": "FOR CABS ONLY",
+        "gameCode": "LDJ",
+        "name": "TDJonLDJ",
+        "patches": [
+            {
+                "offset": 8015133,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8E",
+                "dataEnabled": "8F"
+            },
+            {
+                "offset": 8030594,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 6831724,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 8007467,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 8031931,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 8032024,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 6620918,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "84",
+                "dataEnabled": "85"
+            },
+            {
+                "offset": 8029495,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 8029111,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 8029215,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 8029826,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 8006753,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "84",
+                "dataEnabled": "8F"
+            },
+            {
+                "offset": 8008938,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-64ef0ec9_844b10"
+    },
+    {
+        "dateCode": 0,
+        "description": "",
+        "caution": "Halves most light rates to stock-like behaviour. Should be used along with LDJ 120Hz edits or TDJonLDJ",
+        "gameCode": "LDJ",
+        "name": "Stock LDJ 120Hz Light Speed",
+        "patches": [
+            {
+                "offset": 6383141,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 6451913,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "78",
+                "dataEnabled": "F0"
+            },
+            {
+                "offset": 6383133,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "4F",
+                "dataEnabled": "4D"
+            },
+            {
+                "offset": 4262254,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCC",
+                "dataEnabled": "D1F9"
+            },
+            {
+                "offset": 6826862,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B0DD0B63606",
+                "dataEnabled": "B92000000090"
+            },
+            {
+                "offset": 6384242,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "6A",
+                "dataEnabled": "67"
+            },
+            {
+                "offset": 6383069,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCC",
+                "dataEnabled": "8B713C"
+            },
+            {
+                "offset": 6383169,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8B4B3C",
+                "dataEnabled": "D1FE90"
+            },
+            {
+                "offset": 6383178,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "E903D1",
+                "dataEnabled": "EE01F2"
+            },
+            {
+                "offset": 6383194,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "2BC8",
+                "dataEnabled": "29C6"
+            },
+            {
+                "offset": 6383197,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "F9",
+                "dataEnabled": "FE"
+            },
+            {
+                "offset": 6831015,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "CCCCCCCCCCCCCCCCCC",
+                "dataEnabled": "448B491841D1F9EB10"
+            },
+            {
+                "offset": 6831069,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "448B4318",
+                "dataEnabled": "458BC190"
+            },
+            {
+                "offset": 6831690,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "72",
+                "dataEnabled": "59"
             }
         ],
         "preset": false,
@@ -28789,6 +29527,96 @@
                 "dllName": "bm2dx.dll",
                 "dataDisabled": "03",
                 "dataEnabled": "02"
+            }
+        ],
+        "preset": false,
+        "type": "memory",
+        "peIdentifier": "LDJ-66c58b32_a800bc"
+    },
+    {
+        "dateCode": 0,
+        "description": "Lets you run TDJ mode on legacy cabinets",
+        "caution": "FOR CABS ONLY",
+        "gameCode": "LDJ",
+        "name": "TDJonLDJ",
+        "patches": [
+            {
+                "offset": 10416637,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "8E",
+                "dataEnabled": "8F"
+            },
+            {
+                "offset": 10432098,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "7E",
+                "dataEnabled": "7F"
+            },
+            {
+                "offset": 9483196,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 10409024,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10433771,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "44",
+                "dataEnabled": "45"
+            },
+            {
+                "offset": 10433853,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "75",
+                "dataEnabled": "74"
+            },
+            {
+                "offset": 9260904,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430998,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430614,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10430718,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10431329,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10408320,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
+            },
+            {
+                "offset": 10410446,
+                "dllName": "bm2dx.dll",
+                "dataDisabled": "02",
+                "dataEnabled": "03"
             }
         ],
         "preset": false,
