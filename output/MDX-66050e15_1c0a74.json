@@ -679,6 +679,45 @@
         ]
     },
     {
+        "name": "Force Enable BPL Battle Mode P4IO JFA 64-bit White Cab",
+        "description": "Visual assets are missing, but you can press 1 on mode select and it works (if connected)",
+        "caution": "Requires the corresponding arkmdxp4.dll patch to also be enabled",
+        "gameCode": "MDX",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 584512,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "7507",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 584615,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "7507",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 2137,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "7505",
+                "dataEnabled": "9090"
+            },
+            {
+                "offset": 2349,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "0F8589000000",
+                "dataEnabled": "909090909090"
+            },
+            {
+                "offset": 1140020,
+                "dllName": "gamemdx.dll",
+                "dataDisabled": "0F8772030000",
+                "dataEnabled": "909090909090"
+            }
+        ]
+    },
+    {
         "name": "OmniMIX",
         "description": "v1.2",
         "caution": "Convert .m2v movies to .wmv, or default background stages show",
