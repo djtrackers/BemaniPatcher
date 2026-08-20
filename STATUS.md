@@ -81,6 +81,14 @@ The contents of this file are generated automatically.
 | ✅ | [arkmdxp4.dll](metadata/ddra3.json) | [2024-04-02 (MDX-003)](output/MDX-65d547ba_8fd24.json) |
 
 
+### [DDR WORLD DLL Modder](https://mon.im/bemanipatcher/ddrworld.html)
+
+| Status | Filename | Version |
+| :---:  |----------|---------|
+| ❌ | gamemdx.dll | 2025-08-05 (MDX-003) |
+| ❌ | arkmdxp4.dll | 2025-08-05 (MDX-003) |
+
+
 ### [DDR X2 DLL Modder](https://mon.im/bemanipatcher/ddrx2.html)
 
 | Status | Filename | Version |
