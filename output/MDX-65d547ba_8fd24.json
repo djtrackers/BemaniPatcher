@@ -51,5 +51,26 @@
                 }
             }
         ]
+    },
+    {
+        "name": "Force Enable BPL Battle Mode P4IO JFA 64-bit White Cab",
+        "description": "Visual assets are missing, but you can press 1 on mode select and it works (if connected)",
+        "caution": "Requires the corresponding gamemdx.dll patch to also be enabled",
+        "gameCode": "MDX",
+        "type": "memory",
+        "patches": [
+            {
+                "offset": 113892,
+                "dllName": "arkmdxp4.dll",
+                "dataDisabled": "0F85E1020000",
+                "dataEnabled": "909090909090"
+            },
+            {
+                "offset": 20347,
+                "dllName": "arkmdxp4.dll",
+                "dataDisabled": "0F85CB000000",
+                "dataEnabled": "909090909090"
+            }
+        ]
     }
 ]
