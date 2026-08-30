@@ -438,7 +438,7 @@ The contents of this file are generated automatically.
 | ✅ | [music_db.dll](metadata/jubeatsaucerfulfill.json) | [2014-11-18](output/L44-54648eef_43dd.json) |
 
 
-### [Love Plus Colorful Clip](https://mon.im/bemanipatcher/lovepluscolorfulclip.html)
+### [Love Plus Arcade Colorful Clip](https://mon.im/bemanipatcher/lpac.html)
 
 | Status | Filename | Version |
 | :---:  |----------|---------|
