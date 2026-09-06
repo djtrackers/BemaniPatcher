@@ -443,6 +443,7 @@ The contents of this file are generated automatically.
 | Status | Filename | Version |
 | :---:  |----------|---------|
 | ❌ | lpac.dll | 2012-10-01 |
+| ❌ | arkklp.dll | 2012-10-01 |
 
 
 ### [MÚSECA DLL Modder](https://mon.im/bemanipatcher/museca1.html)
